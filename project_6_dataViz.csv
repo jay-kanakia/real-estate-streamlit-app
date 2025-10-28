@@ -1,0 +1,576 @@
+,property_type,society,sector,price_in_lacs,price_per_sqft_inrs,builtup,bedRoom,bathroom,balcony,floorNum,agePossession,furnish_type,servant_room,study room,pooja room,store_room,others,luxury_score,coordinates,latitude,longitude
+0,flat,maa bhagwati residency,sector 7,45.0,5000.0,1000.0,2,2,1,4.0,Relatively New,0.0,0,0,0,0,0,28.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+1,flat,apna enclave,sector 3,50.0,7692.0,722.0,2,2,1,1.0,Old Property,2.0,0,0,0,0,0,37.0,"28.4909° N, 77.0176° E",28.4909,77.0176
+2,flat,central park flower valley,sector 33,220.00000000000003,10476.0,1901.0,3,3,3,12.0,New Property,2.0,1,0,0,0,0,49.0,"28.4420° N, 77.0207° E",28.442,77.0207
+3,flat,dlf regency park,sector 28,160.0,14545.0,1222.0,2,2,2,3.0,Relatively New,0.0,0,0,0,0,0,52.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+4,flat,deepak minda,manesar,125.0,4715.0,2945.0,4,4,3+,6.0,Moderately Old,2.0,0,0,0,0,0,44.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+5,flat,huda ashok vihar phase,sector 4,43.0,6615.0,722.0,2,2,1,2.0,Relatively New,0.0,0,0,0,0,0,48.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+6,flat,godrej nature plus,sector 33,175.0,8768.0,1996.0,3,3,0,2.0,Under Construction,0.0,0,0,0,0,0,24.0,"28.4420° N, 77.0207° E",28.442,77.0207
+7,flat,central park flower valley aqua front towers,sector 33,210.0,11738.0,1619.0,3,3,2,6.0,Under Construction,0.0,0,0,0,0,0,65.0,"28.4420° N, 77.0207° E",28.442,77.0207
+8,flat,godrej nature plus,sector 33,190.0,9849.0,2143.0,3,3,3+,14.0,New Property,0.0,1,0,0,0,0,0.0,"28.4420° N, 77.0207° E",28.442,77.0207
+9,flat,not applicable,sector 4,42.0,5600.0,833.0,2,2,1,3.0,Relatively New,1.0,0,0,0,0,0,57.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+10,flat,godrej nature plus,sector 33,155.0,9955.0,1730.0,3,2,3+,8.0,New Property,0.0,0,0,0,0,0,105.0,"28.4420° N, 77.0207° E",28.442,77.0207
+11,flat,sushant lok 1 builder floors,sector 43,250.0,12920.0,195.0,3,3,2,2.0,New Property,0.0,0,0,0,0,0,55.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+12,flat,central park flower valley aqua front towers,sector 33,170.0,9502.0,1619.0,3,3,3,12.0,Under Construction,2.0,0,0,0,0,0,28.0,"28.4420° N, 77.0207° E",28.442,77.0207
+13,flat,godrej nature plus,sector 33,145.0,15664.0,96.0,3,2,3+,20.0,Under Construction,0.0,0,1,0,0,0,0.0,"28.4420° N, 77.0207° E",28.442,77.0207
+14,flat,palam vihar society,sector 2,335.0,7444.0,4999.0,4,4,3+,2.0,New Property,0.0,0,1,0,0,0,0.0,"28.5095° N, 77.0320° E",28.5095,77.032
+15,flat,suncity vatsal valley,gwal pahari,145.0,10139.0,1430.0,3,3,3,4.0,Under Construction,0.0,0,0,0,0,0,0.0,"28.4484° N, 77.0210° E",28.4484,77.021
+16,flat,malibu towne,sector 47,240.0,10000.0,2666.0,3,3,0,0.0,Moderately Old,0.0,0,0,0,0,0,52.0,"28.4276° N, 77.0492° E",28.4276,77.0492
+17,flat,maruti vihar colony,sector 28,95.0,8886.0,1188.0,2,1,1,1.0,Old Property,0.0,0,0,0,0,0,60.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+18,flat,"ganpati apartment  2, laxman vihar phase 1",sector 4,45.0,4705.0,944.0,2,2,1,0.0,Relatively New,2.0,0,0,0,0,0,16.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+19,flat,"m m residency, krishna colony, gurgaon",sector 7,54.0,5888.0,1000.0,2,2,1,3.0,Relatively New,0.0,0,0,0,0,0,48.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+20,flat,signature global park 4,sector 36,82.0,7585.0,850.0,3,2,2,2.0,New Property,0.0,0,0,0,0,0,31.0,"28.4160° N, 76.9914° E",28.416,76.9914
+21,flat,godrej nature plus,sector 33,165.0,14335.0,1279.0,2,2,3,1.0,Under Construction,0.0,0,0,0,0,0,146.0,"28.4420° N, 77.0207° E",28.442,77.0207
+22,flat,sonata group housing gh 24,manesar,165.0,5892.0,3111.0,4,3,3,8.0,New Property,0.0,1,0,0,0,0,54.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+23,flat,hsiidc sidco aravali,manesar,90.0,3648.0,2233.0,4,4,3,7.0,Moderately Old,0.0,0,0,0,0,0,68.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+24,flat,bestech park view residency,sector 2,140.0,7865.0,1611.0,3,3,3+,6.0,Old Property,2.0,0,0,0,0,0,104.0,"28.5095° N, 77.0320° E",28.5095,77.032
+25,flat,godrej nature plus,sector 33,140.0,9333.0,1448.0,2,2,3,14.0,Under Construction,0.0,0,0,0,0,0,152.0,"28.4420° N, 77.0207° E",28.442,77.0207
+26,flat,dlf carlton estate,sector 43,200.0,14214.0,1273.0,3,3,2,5.0,Moderately Old,0.0,0,0,0,0,0,119.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+27,flat,the close north,sector 50,300.0,11516.0,2358.0,3,3,3+,14.0,Old Property,1.0,1,0,0,0,0,107.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+28,flat,godrej nature plus,sector 33,167.0,10500.0,1856.0,3,2,2,18.0,Under Construction,0.0,0,0,0,0,0,101.0,"28.4420° N, 77.0207° E",28.442,77.0207
+29,flat,dlf belvedere towers,sector 25,370.0,17619.0,2333.0,4,4,3,18.0,Old Property,0.0,1,0,0,0,0,45.0,"28.4844° N, 77.0860° E",28.4844,77.086
+30,flat,bestech park view residency,sector 2,140.0,7865.0,1611.0,3,3,3+,6.0,Old Property,2.0,0,0,0,0,0,121.0,"28.5095° N, 77.0320° E",28.5095,77.032
+31,flat,dlf carlton estate,sector 43,200.0,14214.0,1273.0,3,3,2,5.0,Moderately Old,2.0,0,0,0,0,0,26.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+32,flat,the close north,sector 50,300.0,11516.0,2358.0,3,3,3+,14.0,Old Property,1.0,1,0,0,0,0,128.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+33,flat,dlf belvedere towers,sector 25,370.0,17619.0,2333.0,4,4,3,18.0,Old Property,0.0,1,0,0,0,0,68.0,"28.4844° N, 77.0860° E",28.4844,77.086
+34,flat,godrej nature plus,sector 33,107.0,7725.0,1254.0,2,2,2,14.0,Under Construction,0.0,0,0,0,0,0,89.0,"28.4420° N, 77.0207° E",28.442,77.0207
+35,flat,godrej nature plus,sector 33,127.0,9182.0,1252.0,2,2,3+,9.0,Under Construction,2.0,0,0,0,0,0,31.0,"28.4420° N, 77.0207° E",28.442,77.0207
+36,flat,bestech park view residency,sector 2,118.0,7539.0,1416.0,2,2,3,5.0,Old Property,0.0,0,1,0,0,0,109.0,"28.5095° N, 77.0320° E",28.5095,77.032
+37,flat,bestech park view residency,sector 2,155.0,8072.0,1738.0,3,4,3+,4.0,Old Property,0.0,1,0,0,0,0,72.0,"28.5095° N, 77.0320° E",28.5095,77.032
+38,flat,dlf regency park,sector 28,225.0,14516.0,1700.0,3,3,2,16.0,Old Property,0.0,1,0,0,0,0,53.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+39,flat,dlf belvedere towers,sector 25,340.0,13765.0,2744.0,4,4,3,1.0,Old Property,1.0,1,0,0,0,0,22.0,"28.4844° N, 77.0860° E",28.4844,77.086
+40,flat,suncity vatsal valley,gwal pahari,128.0,9552.0,1489.0,3,3,3,1.0,Relatively New,2.0,0,0,0,0,0,135.0,"28.4484° N, 77.0210° E",28.4484,77.021
+41,flat,dlf city plots phase 3,sector 24,650.0,18571.0,3888.0,4,5,3+,3.0,New Property,0.0,1,0,0,0,0,93.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+42,flat,paras quartier,gwal pahari,590.0,11028.0,4842.0,4,4,3+,19.0,New Property,0.0,1,1,1,1,0,100.0,"28.4484° N, 77.0210° E",28.4484,77.021
+43,flat,ambience lagoon,sector 24,425.0,13281.0,3201.0,3,4,3+,3.0,Old Property,0.0,1,0,0,1,0,121.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+44,flat,the close south,sector 50,325.0,12810.0,2818.0,3,4,3+,4.0,Old Property,0.0,1,0,0,0,0,52.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+45,flat,bestech park view residency,sector 2,150.0,7825.0,1738.0,3,4,3+,10.0,Moderately Old,0.0,1,0,0,0,0,120.0,"28.5095° N, 77.0320° E",28.5095,77.032
+46,flat,bestech park view residency,sector 2,95.0,6709.0,1573.0,2,2,3,10.0,Old Property,2.0,0,0,0,0,0,49.0,"28.5095° N, 77.0320° E",28.5095,77.032
+47,flat,dlf regency park,sector 28,226.0,13696.0,1700.0,3,3,2,19.0,Old Property,0.0,1,0,0,0,0,38.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+48,flat,eldeco accolade,sector 33,120.0,8043.0,1492.0,2,2,2,0.0,New Property,0.0,0,1,0,0,0,125.0,"28.4420° N, 77.0207° E",28.442,77.0207
+49,flat,dlf regency park,sector 28,235.0,13224.0,1608.0,3,3,2,18.0,Old Property,2.0,1,0,0,0,0,150.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+50,flat,sbr minda sec 1 imt manesar,manesar,65.0,4259.0,1695.0,3,2,3+,6.0,Moderately Old,2.0,0,0,0,0,0,62.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+51,flat,central park flower valley,sector 33,330.0,13750.0,2666.0,3,3,3,2.0,Under Construction,0.0,1,1,1,1,0,102.0,"28.4420° N, 77.0207° E",28.442,77.0207
+52,flat,bestech park view residency,sector 2,151.0,7869.0,1738.0,3,4,3+,7.0,Moderately Old,0.0,1,0,0,0,0,105.0,"28.5095° N, 77.0320° E",28.5095,77.032
+53,flat,bestech park view residency,sector 2,126.0,8051.0,1416.0,2,2,3,7.0,Moderately Old,0.0,0,1,0,0,0,137.0,"28.5095° N, 77.0320° E",28.5095,77.032
+54,flat,bestech park view residency,sector 2,95.0,6713.0,1281.0,2,2,3,1.0,Moderately Old,0.0,0,0,0,0,0,72.0,"28.5095° N, 77.0320° E",28.5095,77.032
+55,flat,sbr minda sec-1 imt manesar,manesar,64.0,4193.0,1695.0,3,2,3+,6.0,Old Property,2.0,0,0,0,0,0,137.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+56,flat,prasha apartments,manesar,75.0,3309.0,1914.0,3,3,3+,3.0,Moderately Old,2.0,1,0,0,0,0,92.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+57,flat,bestech park view residency,sector 2,136.0,7646.0,1611.0,3,3,3+,5.0,Moderately Old,0.0,0,0,0,0,0,49.0,"28.5095° N, 77.0320° E",28.5095,77.032
+58,flat,bestech park view residency,sector 2,98.5,6961.0,1281.0,2,2,3,0.0,Moderately Old,0.0,0,0,0,0,0,106.0,"28.5095° N, 77.0320° E",28.5095,77.032
+59,flat,bestech park view residency,sector 2,56.2,8632.0,723.0,1,1,2,6.0,Moderately Old,0.0,0,0,0,0,0,113.0,"28.5095° N, 77.0320° E",28.5095,77.032
+60,flat,deepak minda,manesar,120.0,4528.0,2944.0,3,3,3+,6.0,Moderately Old,2.0,1,0,0,0,0,174.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+61,flat,the close north,sector 50,235.0,11358.0,1900.0,3,3,3,8.0,Moderately Old,2.0,0,0,0,0,0,26.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+62,flat,swarn jayanti cghs,sector 54,175.0,7608.0,1900.0,4,3,3+,3.0,Old Property,2.0,0,0,0,0,1,150.0,"28.4348° N, 77.1089° E",28.4348,77.1089
+63,flat,krrish provence estate,gwal pahari,525.0,9051.0,5249.0,4,5,3+,2.0,New Property,0.0,1,1,1,0,0,174.0,"28.4484° N, 77.0210° E",28.4484,77.021
+64,flat,the close north,sector 50,270.0,9980.0,2358.0,3,3,3+,3.0,Moderately Old,2.0,1,0,0,0,0,165.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+65,flat,ambience lagoon,sector 24,425.0,13281.0,3201.0,3,4,3+,3.0,Old Property,0.0,1,0,1,0,0,82.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+66,flat,dlf regency park,sector 28,124.0,12400.0,1050.0,2,2,3+,19.0,Moderately Old,0.0,0,0,1,0,0,5.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+67,flat,dlf regency park,sector 28,135.0,11739.0,1120.0,2,2,2,14.0,Old Property,0.0,0,0,0,1,0,101.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+68,flat,green campus chs,manesar,92.0,4022.0,1924.0,3,3,3+,8.0,Moderately Old,2.0,1,0,0,0,0,102.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+69,flat,green campus chs,manesar,90.0,3935.0,2070.0,3,3,3+,6.0,Moderately Old,2.0,1,0,0,0,0,102.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+70,flat,krrish provence estate,gwal pahari,750.0,7500.0,9051.0,5,6,3+,23.0,Relatively New,0.0,1,0,1,0,1,49.0,"28.4484° N, 77.0210° E",28.4484,77.021
+71,flat,denso haryana housing society,manesar,90.0,4308.0,2321.0,3,3,3+,5.0,Moderately Old,2.0,1,0,0,0,0,174.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+72,flat,dlf the icon,sector 43,525.0,20388.0,2570.0,4,4,3,9.0,Old Property,0.0,1,0,1,0,1,26.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+73,flat,unitech fresco,sector 50,114.0,8532.0,1330.0,2,2,2,19.0,Moderately Old,0.0,0,0,0,0,1,49.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+74,flat,ansal maple crescent,sector 43,135.0,10037.0,1320.0,3,3,3,2.0,Old Property,0.0,0,0,0,0,1,174.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+75,flat,dlf regency park,sector 28,230.0,11817.0,1777.0,3,3,3,7.0,Moderately Old,0.0,1,0,0,0,0,99.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+76,flat,hsiidc sidco aravali,manesar,90.0,3477.0,1900.0,3,3,3+,8.0,Moderately Old,2.0,1,0,0,0,0,75.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+77,flat,bestech park view residency,sector 2,102.0,7208.0,1281.0,2,2,3,11.0,Moderately Old,2.0,0,0,0,0,0,101.0,"28.5095° N, 77.0320° E",28.5095,77.032
+78,flat,bestech park view residency,sector 2,55.6,8553.0,722.0,1,1,2,7.0,Moderately Old,2.0,0,0,0,0,0,49.0,"28.5095° N, 77.0320° E",28.5095,77.032
+79,flat,dlf wellington estate,sector 43,209.0,14615.0,1294.0,3,3,2,11.0,Old Property,0.0,0,0,0,0,0,150.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+80,flat,bestech park view residency,sector 2,98.1,6932.0,1281.0,2,2,3,11.0,Moderately Old,2.0,0,0,0,0,0,150.0,"28.5095° N, 77.0320° E",28.5095,77.032
+81,flat,dlf carlton estate,sector 43,210.0,15418.0,1233.0,3,3,1,2.0,Old Property,0.0,0,0,0,1,0,49.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+82,flat,dlf exclusive floors,sector 43,235.0,14242.0,1527.0,3,3,2,1.0,Old Property,2.0,0,0,0,1,0,68.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+83,flat,the close north,sector 50,235.0,11227.0,2000.0,3,3,3,8.0,Moderately Old,2.0,0,0,0,1,0,94.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+84,flat,dlf ridgewood estate,sector 28,200.0,14598.0,1240.0,3,3,1,12.0,Old Property,0.0,0,0,0,0,0,49.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+85,flat,dlf trinity towers,sector 43,380.0,15510.0,2450.0,3,3,3+,1.0,Moderately Old,0.0,1,0,1,0,0,49.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+86,flat,the close north,sector 50,270.0,10364.0,2400.0,3,3,3+,6.0,Moderately Old,1.0,1,0,0,0,0,158.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+87,flat,dlf the icon,sector 43,600.0,26086.0,2555.0,4,4,3+,18.0,Old Property,0.0,1,0,0,0,0,19.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+88,flat,.,gwal pahari,700.0,11000.0,5431.0,4,4,3+,6.0,Relatively New,2.0,1,0,0,0,0,140.0,"28.4484° N, 77.0210° E",28.4484,77.021
+89,flat,unitech fresco,sector 50,180.0,9589.0,1870.0,3,4,3+,6.0,Moderately Old,2.0,1,0,0,0,0,96.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+90,flat,the close north,sector 50,265.0,10685.0,2470.0,3,4,3+,6.0,Moderately Old,2.0,1,0,0,0,0,96.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+91,flat,unitech fresco,sector 50,188.0,10479.0,1790.0,3,3,3+,14.0,Moderately Old,0.0,0,0,0,0,1,88.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+92,flat,unitech harmony,sector 50,260.0,9590.0,2700.0,3,4,2,15.0,Relatively New,0.0,1,0,0,0,1,99.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+93,flat,the close north,sector 50,297.0,11401.0,2600.0,3,3,3+,8.0,Moderately Old,2.0,1,0,0,0,0,49.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+94,flat,paras quartier,gwal pahari,750.0,14018.0,4842.0,4,4,3+,20.0,New Property,2.0,1,0,1,0,1,135.0,"28.4484° N, 77.0210° E",28.4484,77.021
+95,flat,the close north,sector 50,235.0,11767.0,1950.0,3,3,3+,8.0,Moderately Old,0.0,0,0,0,0,0,102.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+96,flat,the close south,sector 50,310.0,12444.0,2450.0,3,4,3+,4.0,Moderately Old,0.0,1,0,0,0,0,127.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+97,flat,professional society,manesar,75.0,3067.0,2716.0,3,4,3,3.0,Relatively New,0.0,1,0,0,0,0,43.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+98,flat,hsiidc sidco shivalik apartments,manesar,73.0,3560.0,1705.0,3,3,3+,2.0,Moderately Old,0.0,1,0,0,0,0,108.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+99,flat,imt view society,manesar,95.0,3653.0,2232.0,3,4,3,6.0,Moderately Old,0.0,1,0,0,0,0,99.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+100,flat,hsiidc sidco shivalik apartments,manesar,48.0,3840.0,993.0,2,2,3,7.0,Moderately Old,0.0,0,0,0,0,0,151.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+101,flat,hsiidc sidco aravali,manesar,86.0,3323.0,1900.0,3,3,3+,3.0,Moderately Old,0.0,1,0,0,0,0,49.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+102,flat,hsiidc sidco aravali,manesar,81.0,3129.0,1900.0,3,3,3+,2.0,Moderately Old,0.0,1,0,0,0,0,79.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+103,flat,krrish provence estate,gwal pahari,550.0,9482.0,5249.0,4,5,3+,11.0,New Property,1.0,1,1,1,0,0,165.0,"28.4484° N, 77.0210° E",28.4484,77.021
+104,flat,suncity platinum towers,sector 28,620.0,23091.0,2000.0,3,4,3+,21.0,Relatively New,0.0,1,0,0,0,0,80.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+105,flat,hsiidc sidco shivalik apartments,manesar,60.0,4000.0,1277.0,3,2,2,5.0,Moderately Old,2.0,0,0,0,0,0,76.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+106,flat,bestech park view residency,sector 2,98.0,6261.0,1416.0,2,2,3,14.0,Moderately Old,2.0,0,1,0,0,0,174.0,"28.5095° N, 77.0320° E",28.5095,77.032
+107,flat,bestech park view residency,sector 2,155.0,8072.0,1738.0,3,4,3+,10.0,Moderately Old,0.0,1,0,0,0,0,174.0,"28.5095° N, 77.0320° E",28.5095,77.032
+108,flat,bestech park view residency,sector 2,101.0,7137.0,1281.0,2,2,3,0.0,Moderately Old,2.0,0,0,0,0,0,174.0,"28.5095° N, 77.0320° E",28.5095,77.032
+109,flat,bestech park view residency,sector 2,151.0,7890.0,1738.0,3,4,3+,8.0,Moderately Old,2.0,1,0,0,0,0,49.0,"28.5095° N, 77.0320° E",28.5095,77.032
+110,flat,bestech park view residency,sector 2,140.0,7865.0,1611.0,3,3,3+,8.0,Moderately Old,0.0,0,0,0,0,0,42.0,"28.5095° N, 77.0320° E",28.5095,77.032
+111,flat,bestech park view residency,sector 2,159.0,8281.0,1738.0,3,4,3+,11.0,Moderately Old,2.0,1,0,0,0,0,174.0,"28.5095° N, 77.0320° E",28.5095,77.032
+112,flat,bestech park view residency,sector 2,56.2,8632.0,723.0,1,2,2,7.0,Moderately Old,2.0,0,0,0,0,0,109.0,"28.5095° N, 77.0320° E",28.5095,77.032
+113,flat,dlf regency park,sector 28,235.0,13224.0,1700.0,3,4,3,8.0,Old Property,2.0,1,0,0,0,0,165.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+114,flat,suncity vatsal valley,gwal pahari,138.0,9650.0,1294.0,3,3,2,1.0,Relatively New,2.0,0,0,0,0,0,156.0,"28.4484° N, 77.0210° E",28.4484,77.021
+115,flat,beverley park 1,sector 43,844.0,16230.0,5000.0,4,5,3,9.0,Moderately Old,2.0,1,0,0,0,0,150.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+116,flat,new sathi apartments,sector 54,159.0,7066.0,2250.0,3,3,3+,3.0,Moderately Old,2.0,0,1,0,0,0,157.0,"28.4348° N, 77.1089° E",28.4348,77.1089
+117,flat,suncity platinum towers,sector 28,600.0,22346.0,2983.0,3,3,2,8.0,Moderately Old,2.0,1,0,0,0,0,49.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+118,flat,suncity platinum towers,sector 28,700.0,22222.0,2488.0,4,3,2,10.0,Moderately Old,0.0,1,0,0,0,0,106.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+119,flat,the close north,sector 50,292.0,11209.0,2600.0,3,3,3,10.0,Moderately Old,0.0,1,0,0,0,0,38.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+120,flat,unitech fresco,sector 50,182.0,9912.0,1830.0,3,3,3+,14.0,Moderately Old,2.0,0,0,0,0,1,38.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+121,flat,the close north,sector 50,265.0,11276.0,2491.0,3,3,3+,3.0,Moderately Old,2.0,1,0,0,0,0,101.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+122,flat,central park flower valley,sector 33,230.0,12777.0,2000.0,4,4,3+,5.0,New Property,0.0,1,0,1,0,0,49.0,"28.4420° N, 77.0207° E",28.442,77.0207
+123,flat,central park flower valley,sector 33,155.0,11923.0,1444.0,3,3,3+,7.0,New Property,0.0,0,0,0,0,0,49.0,"28.4420° N, 77.0207° E",28.442,77.0207
+124,flat,hsiidc sidco aravali,manesar,91.0,3516.0,1900.0,3,3,3+,8.0,Moderately Old,2.0,1,0,0,0,0,120.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+125,flat,the crew bos chs manesar,manesar,85.0,3695.0,2555.0,3,3,2,2.0,Moderately Old,2.0,0,0,0,0,0,128.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+126,flat,the close north,sector 50,275.0,12500.0,2400.0,3,3,3,3.0,Moderately Old,2.0,1,0,0,0,0,44.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+127,flat,the close north,sector 50,251.0,11992.0,2093.06,3,3,3,11.0,Moderately Old,2.0,0,0,1,1,0,138.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+128,flat,the close north,sector 50,250.0,11944.0,1894.0,3,3,3,11.0,Relatively New,0.0,0,0,1,0,0,71.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+129,flat,central park flower valley,sector 33,179.0,11251.0,1619.0,3,3,3,3.0,Old Property,0.0,0,0,0,0,0,134.0,"28.4420° N, 77.0207° E",28.442,77.0207
+130,flat,godrej nature plus,sector 33,131.0,15982.0,84.0,2,2,2,4.0,Under Construction,2.0,0,0,0,0,0,42.0,"28.4420° N, 77.0207° E",28.442,77.0207
+131,flat,godrej nature plus,sector 33,165.0,8266.0,2217.0,3,3,3,2.0,Under Construction,0.0,1,0,0,0,0,45.0,"28.4420° N, 77.0207° E",28.442,77.0207
+132,flat,godrej nature plus,sector 33,140.0,15124.0,113.0,3,2,3+,20.0,New Property,0.0,0,0,0,0,0,114.0,"28.4420° N, 77.0207° E",28.442,77.0207
+133,flat,central park flower valley,sector 33,215.0,13522.0,1439.0,3,3,3+,1.0,New Property,0.0,0,0,0,0,0,70.0,"28.4420° N, 77.0207° E",28.442,77.0207
+134,flat,woodstock floors,sector 50,105.0,10627.0,1098.0,2,2,2,2.0,Moderately Old,0.0,0,0,0,0,0,113.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+135,flat,hsiidc sidco aravali,manesar,90.0,3477.0,1900.0,3,3,3,2.0,Old Property,0.0,1,0,0,0,0,37.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+136,flat,central park flower valley aqua front towers,sector 33,170.0,9449.0,1697.0,3,3,3+,5.0,New Property,1.0,0,0,0,0,0,149.0,"28.4420° N, 77.0207° E",28.442,77.0207
+137,flat,godrej nature plus,sector 33,130.0,8349.0,1409.0,3,2,3+,18.0,New Property,0.0,0,0,0,0,0,95.0,"28.4420° N, 77.0207° E",28.442,77.0207
+138,flat,dlf icon,sector 43,580.0,20707.0,2801.0,4,4,3+,18.0,Moderately Old,1.0,0,0,0,0,0,38.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+139,flat,godrej nature plus,sector 33,135.0,8670.0,1409.0,3,2,3+,17.0,New Property,0.0,0,0,0,0,0,49.0,"28.4420° N, 77.0207° E",28.442,77.0207
+140,flat,godrej nature plus,sector 33,120.0,14379.0,86.0,2,2,3,1.0,New Property,0.0,0,0,0,0,0,92.0,"28.4420° N, 77.0207° E",28.442,77.0207
+141,flat,sahara grace,sector 28,430.0,12420.0,3133.0,3,4,3,5.0,Old Property,0.0,1,0,0,1,0,0.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+142,flat,central park flower valley aqua front towers,sector 33,296.0,13870.0,2371.0,4,4,3,1.0,New Property,0.0,1,0,0,0,0,0.0,"28.4420° N, 77.0207° E",28.442,77.0207
+143,flat,godrej nature plus,sector 33,170.0,12592.0,1500.0,3,3,3+,6.0,New Property,0.0,1,0,0,0,0,24.0,"28.4420° N, 77.0207° E",28.442,77.0207
+144,flat,dlf express greens,manesar,160.0,6808.0,2611.0,4,6,3+,4.0,Relatively New,2.0,1,1,1,0,0,49.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+145,flat,suncity vatsal valley,gwal pahari,100.0,13340.0,833.0,2,2,2,3.0,New Property,0.0,0,0,0,0,0,31.0,"28.4484° N, 77.0210° E",28.4484,77.021
+146,flat,dlf beverly park,sector 25,800.0,15384.0,5777.0,5,5,3+,2.0,Old Property,0.0,1,1,1,0,1,45.0,"28.4844° N, 77.0860° E",28.4844,77.086
+147,flat,surya vihar rwa,sector 21,130.0,6500.0,2400.0,5,5,2,2.0,Old Property,0.0,1,1,0,1,0,37.0,"28.5134° N, 77.0723° E",28.5134,77.0723
+148,flat,dlf the grove,sector 43,600.0,25000.0,2666.0,4,4,2,1.0,Under Construction,2.0,1,0,0,0,0,26.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+149,flat,suncity vatsal valley,gwal pahari,153.0,10699.0,1589.0,3,3,3,2.0,New Property,1.0,0,0,0,0,0,123.0,"28.4484° N, 77.0210° E",28.4484,77.021
+150,flat,"new colony, gurgaon",sector 7,80.0,8100.0,1100.0,3,2,1,4.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+151,flat,central park flower valley,sector 33,135.0,10384.0,1444.0,3,2,2,3.0,New Property,0.0,0,0,0,0,0,15.0,"28.4420° N, 77.0207° E",28.442,77.0207
+152,flat,511 sarahah tower,sector 12,60.0,8333.0,800.0,2,2,1,0.0,New Property,0.0,0,0,1,0,0,0.0,"28.4723° N, 77.0320° E",28.4723,77.032
+153,flat,shri ram apartments,sector 4,32.0,3368.0,1055.0,2,2,1,4.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+154,flat,bsf chs,gwal pahari,95.0,5937.0,1778.0,3,3,3,13.0,Old Property,0.0,0,0,0,0,0,60.0,"28.4484° N, 77.0210° E",28.4484,77.021
+155,flat,hsiidc sidco shivalik apartments,manesar,85.0,5102.0,1508.0,3,2,2,5.0,Moderately Old,2.0,0,0,0,0,0,90.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+156,flat,dnha group housing society,manesar,75.0,4518.0,1502.0,3,2,2,5.0,Moderately Old,0.0,0,0,0,0,0,60.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+157,flat,malibu towers,sector 47,245.00000000000003,10698.0,2544.0,3,4,2,1.0,Old Property,0.0,0,1,0,0,0,33.0,"28.4276° N, 77.0492° E",28.4276,77.0492
+158,flat,ansal plaza,sector 2,100.0,10000.0,1000.0,2,3,0,1.0,Moderately Old,0.0,0,0,0,0,0,42.0,"28.5095° N, 77.0320° E",28.5095,77.032
+159,flat,signature global park 4,sector 36,85.0,11333.0,833.0,3,2,3,1.0,New Property,0.0,0,0,0,0,0,68.0,"28.4160° N, 76.9914° E",28.416,76.9914
+160,flat,adarsh nagar,sector 12,65.0,6190.0,1166.0,3,3,1,1.0,New Property,0.0,0,0,0,0,0,49.0,"28.4723° N, 77.0320° E",28.4723,77.032
+161,flat,godrej nature plus serenity,sector 33,145.0,8677.0,1512.0,3,2,3,3.0,Under Construction,0.0,0,0,0,0,0,97.0,"28.4420° N, 77.0207° E",28.442,77.0207
+162,flat,godrej nature plus,sector 33,120.0,13369.0,84.0,2,2,0,11.0,Under Construction,0.0,0,0,0,0,0,28.0,"28.4420° N, 77.0207° E",28.442,77.0207
+163,flat,ansal sushant residency,sector 57,150.0,6775.0,273.0,3,2,3+,1.0,Moderately Old,0.0,0,0,0,0,0,105.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+164,flat,paras quartier,gwal pahari,590.0,11028.0,5350.0,4,4,3+,0.0,Moderately Old,0.0,0,0,0,0,0,55.0,"28.4484° N, 77.0210° E",28.4484,77.021
+165,flat,godrej nature plus,sector 33,150.0,10200.0,1539.0,2,2,3+,2.0,Under Construction,0.0,0,0,0,0,0,29.0,"28.4420° N, 77.0207° E",28.442,77.0207
+166,flat,valley view estate,gwal pahari,150.0,8278.0,2013.0,4,4,3+,9.0,Old Property,2.0,1,1,0,0,1,79.0,"28.4484° N, 77.0210° E",28.4484,77.021
+167,flat,godrej nature plus serenity,sector 33,139.0,11583.0,1333.0,3,2,3+,23.0,Under Construction,2.0,0,0,0,0,0,57.0,"28.4420° N, 77.0207° E",28.442,77.0207
+168,flat,essel towers,sector 14,275.0,12500.0,2200.0,4,5,3+,8.0,Old Property,0.0,1,1,0,0,0,38.0,"28.4711° N, 77.0454° E",28.4711,77.0454
+169,flat,shreeram apartment ii,sector 4,21.0,4666.0,500.0,1,1,1,2.0,Relatively New,0.0,0,0,0,0,0,45.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+170,flat,eden landmark,manesar,50.0,3847.0,1300.0,2,2,0,7.0,Under Construction,0.0,0,0,0,0,0,49.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+171,flat,signature global park 4,sector 36,82.0,7585.0,1201.0,3,2,3,2.0,New Property,0.0,0,0,0,0,0,66.0,"28.4160° N, 76.9914° E",28.416,76.9914
+172,flat,signature global park 4,sector 36,72.0,6660.0,978.0,3,2,3,3.0,Under Construction,1.0,0,0,0,0,0,69.0,"28.4160° N, 76.9914° E",28.416,76.9914
+173,flat,godrej nature plus,sector 33,135.0,8231.0,1484.0,3,2,3+,7.0,Under Construction,0.0,0,0,1,0,0,0.0,"28.4420° N, 77.0207° E",28.442,77.0207
+174,flat,sahara grace,sector 28,550.0,14612.0,3407.0,4,5,3+,5.0,Moderately Old,0.0,1,0,0,0,1,52.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+175,flat,godrej nature plus,sector 33,125.0,9025.0,1385.0,2,2,3,17.0,Under Construction,0.0,0,0,0,0,0,74.0,"28.4420° N, 77.0207° E",28.442,77.0207
+176,flat,godrej nature plus,sector 33,110.0,7971.0,1533.0,2,2,2,14.0,Under Construction,0.0,0,0,0,0,0,63.0,"28.4420° N, 77.0207° E",28.442,77.0207
+177,flat,ss residency,sector 6,48.0,5333.0,111.0,3,2,2,2.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4745° N, 77.0262° E",28.4745,77.0262
+178,flat,godrej nature plus,sector 33,115.0,11558.0,102.0,2,2,2,15.0,Under Construction,2.0,0,0,0,0,0,44.0,"28.4420° N, 77.0207° E",28.442,77.0207
+179,flat,godrej nature plus,sector 33,125.0,9025.0,1539.0,2,2,3+,15.0,Under Construction,0.0,0,0,0,0,0,88.0,"28.4420° N, 77.0207° E",28.442,77.0207
+180,flat,eldeco accolade,sector 33,120.0,8043.0,1492.0,2,2,2,0.0,Under Construction,0.0,0,0,0,0,0,0.0,"28.4420° N, 77.0207° E",28.442,77.0207
+181,flat,the pearl apartmen,sector 15,43.0,5584.0,855.0,2,2,1,2.0,Relatively New,0.0,0,0,0,0,0,53.0,"28.4621° N, 77.0464° E",28.4621,77.0464
+182,flat,dlf royalton tower,sector 43,650.0,20687.0,2713.0,4,4,3+,9.0,Moderately Old,2.0,1,0,0,0,0,7.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+183,flat,suncity vatsal valley,gwal pahari,138.0,12212.0,1130.0,2,2,2,4.0,Under Construction,0.0,0,0,0,0,0,23.0,"28.4484° N, 77.0210° E",28.4484,77.021
+184,flat,unitech heritage city,sector 14,426.0,13108.0,3250.0,4,4,0,9.0,Relatively New,0.0,0,0,0,0,0,37.0,"28.4711° N, 77.0454° E",28.4711,77.0454
+185,flat,zara aavaas,sector 104,20.0,6644.0,334.0,1,2,2,3.0,New Property,1.0,0,0,0,0,0,49.0,"28.4788° N, 76.9960° E",28.4788,76.996
+186,flat,essel tower,sector 28,220.00000000000003,12500.0,1955.0,3,4,3+,3.0,Moderately Old,0.0,1,0,0,0,0,30.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+187,flat,central park flower valley,sector 33,250.0,13270.0,2093.0,3,3,2,1.0,Under Construction,0.0,0,0,0,0,0,0.0,"28.4420° N, 77.0207° E",28.442,77.0207
+188,flat,silverglades hightown residences,sector 43,420.0,19767.0,2124.75,3,4,2,7.0,Under Construction,0.0,0,0,0,0,0,128.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+189,flat,sbr apartment,manesar,68.0,4456.0,1526.0,3,3,3,2.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+190,flat,dlf regency park,sector 28,191.0,16608.0,1278.0,2,2,2,11.0,New Property,0.0,0,0,0,0,0,0.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+191,flat,central park flower valley,sector 33,140.0,21538.0,588.0,3,3,3,2.0,Under Construction,0.0,0,0,0,0,0,37.0,"28.4420° N, 77.0207° E",28.442,77.0207
+192,flat,lord krishna,sector 12,270.0,8571.0,3150.0,4,3,3,6.0,New Property,0.0,0,0,0,0,0,0.0,"28.4723° N, 77.0320° E",28.4723,77.032
+193,flat,signature global park 4,sector 36,100.0,9900.0,1122.0,3,2,3,2.0,New Property,0.0,0,0,0,0,0,35.0,"28.4160° N, 76.9914° E",28.416,76.9914
+194,flat,central park flower valley cerise floors,sector 33,130.0,10743.0,1095.0,2,2,2,3.0,New Property,0.0,0,1,0,0,0,113.0,"28.4420° N, 77.0207° E",28.442,77.0207
+195,flat,essel towers,sector 14,220.00000000000003,12500.0,1955.0,3,4,3+,3.0,Relatively New,0.0,0,0,0,0,0,36.0,"28.4711° N, 77.0454° E",28.4711,77.0454
+196,flat,essel towers,sector 14,220.00000000000003,12500.0,1955.0,3,4,3+,3.0,Relatively New,1.0,0,0,0,0,0,0.0,"28.4711° N, 77.0454° E",28.4711,77.0454
+197,flat,eldeco accolade,sector 33,120.0,8043.0,1492.0,2,2,2,0.0,Under Construction,0.0,0,0,0,0,0,123.0,"28.4420° N, 77.0207° E",28.442,77.0207
+198,flat,dlf royalton tower,sector 43,620.0,20687.0,2713.0,4,4,3+,9.0,Moderately Old,1.0,1,0,0,0,0,98.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+199,flat,unitech heritage city,sector 14,426.0,13108.0,3250.0,4,4,0,9.0,Relatively New,0.0,0,0,0,0,0,38.0,"28.4711° N, 77.0454° E",28.4711,77.0454
+200,flat,zara aavaas,sector 104,20.0,6644.0,334.0,1,2,2,3.0,New Property,0.0,0,0,0,0,0,95.0,"28.4788° N, 76.9960° E",28.4788,76.996
+201,flat,essel tower,sector 28,220.00000000000003,12500.0,1955.0,3,4,3+,3.0,Moderately Old,0.0,1,0,0,0,0,122.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+202,flat,central park flower valley,sector 33,250.0,13270.0,2093.0,3,3,2,1.0,Under Construction,0.0,0,0,0,0,0,71.0,"28.4420° N, 77.0207° E",28.442,77.0207
+203,flat,silverglades hightown residences,sector 43,420.0,19767.0,2124.75,3,4,2,7.0,Under Construction,0.0,0,0,0,0,0,37.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+204,flat,dlf regency park,sector 28,191.0,16608.0,1278.0,2,2,2,11.0,New Property,0.0,0,0,0,0,0,52.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+205,flat,central park flower valley,sector 33,140.0,21538.0,588.0,3,3,3,2.0,Under Construction,0.0,0,0,0,0,0,54.0,"28.4420° N, 77.0207° E",28.442,77.0207
+206,flat,essel towers,sector 14,220.00000000000003,12500.0,1955.0,3,4,3+,3.0,Relatively New,0.0,0,0,0,0,0,51.0,"28.4711° N, 77.0454° E",28.4711,77.0454
+207,flat,essel towers,sector 14,220.00000000000003,12500.0,1955.0,3,4,3+,3.0,Relatively New,0.0,0,0,0,0,0,28.0,"28.4711° N, 77.0454° E",28.4711,77.0454
+208,flat,dlf royalton tower,sector 43,650.0,22108.0,2661.0,4,5,2,8.0,Relatively New,0.0,1,0,0,0,0,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+209,flat,valley view estate,gwal pahari,150.0,7489.0,1850.0,4,4,3+,10.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4484° N, 77.0210° E",28.4484,77.021
+210,flat,godrej nature plus,sector 33,120.0,12000.0,1111.0,2,2,3+,3.0,Under Construction,0.0,0,0,0,0,0,23.0,"28.4420° N, 77.0207° E",28.442,77.0207
+211,flat,shri ram apartments,sector 4,46.0,5111.0,1000.0,2,2,1,1.0,Relatively New,2.0,0,0,0,0,0,93.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+212,flat,godrej nature plus,sector 33,108.0,13126.0,84.0,2,2,3,8.0,Under Construction,0.0,0,0,0,0,0,0.0,"28.4420° N, 77.0207° E",28.442,77.0207
+213,flat,deepak minda,manesar,125.0,4716.0,2944.0,3,3,3+,6.0,Moderately Old,0.0,1,0,0,0,0,71.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+214,flat,central park flower valley aqua front towers,sector 33,200.0,11179.0,1619.0,3,3,3+,8.0,New Property,0.0,0,0,0,0,0,45.0,"28.4420° N, 77.0207° E",28.442,77.0207
+215,flat,shyam apartment,sector 3,26.0,3714.0,611.0,2,1,2,2.0,Relatively New,0.0,0,0,0,0,0,44.0,"28.4909° N, 77.0176° E",28.4909,77.0176
+216,flat,maruti kunj,sector 11,80.0,5161.0,1403.0,3,2,0,0.0,Old Property,2.0,0,0,0,0,0,44.0,"28.4531° N, 77.0202° E",28.4531,77.0202
+217,flat,palam vihar extension west zone rwa,sector 2,20.0,4000.0,555.0,1,1,1,1.0,Moderately Old,0.0,0,0,0,0,1,44.0,"28.5095° N, 77.0320° E",28.5095,77.032
+218,flat,bestech park view residency,sector 2,55.0,8461.0,588.0,1,1,2,7.0,Moderately Old,0.0,0,0,0,0,0,66.0,"28.5095° N, 77.0320° E",28.5095,77.032
+219,flat,bajrang apartments,sector 6,38.0,4470.0,944.0,2,2,2,1.0,Moderately Old,0.0,0,0,0,0,0,100.0,"28.4745° N, 77.0262° E",28.4745,77.0262
+220,flat,signature global park 4,sector 36,72.0,6428.0,1244.0,3,2,3,2.0,Under Construction,0.0,0,0,0,0,0,39.0,"28.4160° N, 76.9914° E",28.416,76.9914
+221,flat,ss radiance residency,sector 12,60.0,5660.0,1178.0,3,3,2,3.0,Relatively New,0.0,0,0,0,0,0,88.0,"28.4723° N, 77.0320° E",28.4723,77.032
+222,flat,rk tower,sector 2,95.0,9595.0,1100.0,2,2,1,1.0,Relatively New,0.0,0,0,0,0,0,8.0,"28.5095° N, 77.0320° E",28.5095,77.032
+223,flat,unitech the palms,sector 41,275.0,16768.0,1640.03,3,3,2,14.0,Old Property,2.0,0,0,0,0,0,42.0,"28.4557° N, 77.0632° E",28.4557,77.0632
+224,flat,nul,gwal pahari,56.0,6054.0,1028.0,2,2,1,11.0,Old Property,0.0,0,0,0,0,0,60.0,"28.4484° N, 77.0210° E",28.4484,77.021
+225,flat,godrej nature plus,sector 33,162.0,13974.0,119.0,3,4,3+,3.0,New Property,0.0,1,0,0,0,0,31.0,"28.4420° N, 77.0207° E",28.442,77.0207
+226,flat,shri ram apartments,sector 4,36.0,3789.0,1055.0,2,2,1,4.0,Relatively New,0.0,0,0,0,0,0,30.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+227,flat,divya apartments,sector 6,60.0,7594.0,790.0,2,2,0,2.0,Relatively New,0.0,0,0,0,0,0,67.0,"28.4745° N, 77.0262° E",28.4745,77.0262
+228,flat,valley view estate,gwal pahari,38.0,6089.0,565.0,1,1,1,11.0,Moderately Old,0.0,0,0,0,0,0,49.0,"28.4484° N, 77.0210° E",28.4484,77.021
+229,flat,ansal harmony homes,sector 57,112.0,10666.0,950.0,2,2,1,0.0,Old Property,0.0,0,0,0,0,0,60.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+230,flat,apna enclave,sector 3,80.0,6153.0,1000.0,3,3,1,0.0,Old Property,0.0,0,0,0,0,0,36.0,"28.4909° N, 77.0176° E",28.4909,77.0176
+231,flat,godrej nature plus,sector 33,150.0,9677.0,1403.0,3,3,3,6.0,Under Construction,0.0,0,1,0,0,0,58.0,"28.4420° N, 77.0207° E",28.442,77.0207
+232,flat,dlf express greens,manesar,120.0,6505.0,1670.0,3,4,2,5.0,Relatively New,0.0,1,0,0,0,1,67.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+233,flat,aditya apartment,manesar,100.0,4033.0,2480.0,3,4,0,3.0,New Property,0.0,0,0,0,0,0,105.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+234,flat,shri balaji apartment,sector 12,35.0,4037.0,737.0,2,2,1,1.0,Moderately Old,2.0,0,0,0,0,0,49.0,"28.4723° N, 77.0320° E",28.4723,77.032
+235,flat,dlf express greens,manesar,150.0,6358.0,2135.0,4,5,3+,10.0,New Property,1.0,1,0,0,0,0,20.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+236,flat,ansals duplex flat,sector 2,95.0,7307.0,1444.0,2,3,2,1.0,Old Property,2.0,0,1,0,0,0,31.0,"28.5095° N, 77.0320° E",28.5095,77.032
+237,flat,chanderlok society,sector 28,90.0,7234.0,1382.0,4,2,3+,1.0,Old Property,0.0,0,0,0,0,0,56.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+238,flat,ss residency,sector 12,53.0,4818.0,996.0,3,3,2,2.0,Relatively New,0.0,0,0,0,0,0,41.0,"28.4723° N, 77.0320° E",28.4723,77.032
+239,flat,uphar lakshya homes,sector 105,42.0,4200.0,1111.0,3,2,1,1.0,Relatively New,2.0,0,0,0,0,0,21.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+240,flat,palam vihar society,sector 2,40.0,8602.0,450.0,1,1,1,5.0,Moderately Old,2.0,0,0,0,0,0,115.0,"28.5095° N, 77.0320° E",28.5095,77.032
+241,flat,krishna appartment,sector 12,35.0,3500.0,905.0,3,3,1,2.0,Old Property,2.0,0,0,0,0,0,27.0,"28.4723° N, 77.0320° E",28.4723,77.032
+242,flat,dlf regency park,sector 28,135.0,11992.0,1109.0,2,2,2,1.0,Moderately Old,2.0,0,0,0,0,0,142.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+243,flat,ambience lagoon,sector 24,580.0,12500.0,3700.0,3,4,3+,9.0,Old Property,2.0,1,1,1,0,1,54.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+244,house,independent,sector 25,1085.0,38150.0,2840.64,6,6,1,3.0,Relatively New,2.0,0,0,0,1,0,135.0,"28.4844° N, 77.0860° E",28.4844,77.086
+245,house,sushant lok 1 builder floors,sector 43,195.0,10077.0,215.0,3,4,3+,4.0,New Property,0.0,1,0,0,0,0,19.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+246,house,independent,sector 25,445.0,32963.0,1345.0,4,3,3+,2.0,Moderately Old,0.0,0,0,0,1,0,146.0,"28.4844° N, 77.0860° E",28.4844,77.086
+247,house,independent,sector 28,900.0,27778.0,3238.76,6,7,3+,3.0,Moderately Old,0.0,1,1,1,1,0,160.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+248,house,independent,sector 26,1500.0,33200.0,4519.2,5,6,3+,3.0,Moderately Old,2.0,1,1,1,1,0,49.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+249,house,independent,sector 43,825.0,30556.0,2700.76,5,6,3+,3.0,Moderately Old,2.0,1,1,1,1,0,110.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+250,house,dlf city plots phase 2,sector 25,1075.0,29861.0,3593.84,9,9,3+,3.0,Old Property,2.0,1,0,1,1,0,52.0,"28.4844° N, 77.0860° E",28.4844,77.086
+251,house,unitech espace,sector 50,735.0,41762.0,2162.76,4,4,3+,3.0,Moderately Old,0.0,1,0,1,0,0,22.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+252,house,independent,sector 49,445.0,15451.0,2883.68,6,6,3,3.0,Moderately Old,0.0,1,1,1,1,0,22.0,"28.4121° N, 77.0480° E",28.4121,77.048
+253,house,independent,sector 25,760.0,38760.0,1936.8,2,9,3,4.0,Relatively New,0.0,0,1,1,1,0,63.0,"28.4844° N, 77.0860° E",28.4844,77.086
+254,house,ansal sushant lok plots,sector 43,700.0,25926.0,2700.76,5,5,3+,3.0,Relatively New,0.0,1,1,1,0,0,49.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+255,house,independent,sector 50,1056.0,32593.0,3238.76,5,5,3,3.0,Moderately Old,0.0,1,0,0,0,0,47.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+256,house,independent,sector 25,1000.0,37037.0,2700.76,5,6,3,3.0,Old Property,2.0,1,0,0,1,0,85.0,"28.4844° N, 77.0860° E",28.4844,77.086
+257,house,independent,sector 57,330.0,19097.0,1732.36,4,4,2,3.0,Moderately Old,2.0,0,0,0,1,0,122.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+258,house,independent,sector 25,900.0,33333.0,2700.76,5,5,3,3.0,Old Property,0.0,1,1,1,1,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+259,house,independent,sector 26,580.0,32222.0,1796.92,5,5,3+,2.0,Old Property,0.0,1,1,1,1,0,7.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+260,house,nul,sector 25,625.0,34722.0,1796.92,5,5,3,2.0,Moderately Old,2.0,1,0,1,0,0,61.0,"28.4844° N, 77.0860° E",28.4844,77.086
+261,house,independent,sector 43,575.0,29716.0,1936.8,4,4,2,2.0,Old Property,2.0,1,0,1,1,0,20.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+262,house,independent,sector 2,255.0,16378.0,1560.2,3,3,2,2.0,Old Property,2.0,0,0,0,0,0,75.0,"28.5095° N, 77.0320° E",28.5095,77.032
+263,house,independent,sector 2,560.0,17284.0,3238.76,8,6,3+,2.0,Moderately Old,1.0,1,1,1,1,0,20.0,"28.5095° N, 77.0320° E",28.5095,77.032
+264,house,independent,sector 45,1700.0,37777.0,4500.0,5,8,3+,3.0,Relatively New,0.0,1,1,1,1,0,12.0,"28.4466° N, 77.0660° E",28.4466,77.066
+265,house,uppal southend,sector 49,375.0,25562.0,1463.36,2,6,3,3.0,Moderately Old,0.0,0,0,0,0,1,160.0,"28.4121° N, 77.0480° E",28.4121,77.048
+266,house,independent,sector 43,650.0,35400.0,1936.8,5,4,3+,3.0,Moderately Old,0.0,1,0,1,0,0,9.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+267,house,independent,sector 50,1045.0,38703.0,4000.0,4,5,2,3.0,Moderately Old,2.0,1,1,1,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+268,house,independent,sector 4,67.0,8557.0,87.0,3,2,1,1.0,Moderately Old,0.0,0,0,1,0,1,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+269,house,independent,sector 7,155.0,13889.0,120.0,2,2,2,1.0,Moderately Old,0.0,0,0,0,0,0,12.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+270,house,independent,sector 50,700.0,23333.0,3400.0,4,4,2,3.0,Old Property,0.0,1,0,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+271,house,independent,sector 25,660.0,36667.0,1796.92,6,7,3+,2.0,Moderately Old,0.0,1,1,0,0,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+272,house,independent,sector 105,65.0,9028.0,80.0,3,2,1,1.0,Relatively New,0.0,0,0,1,0,1,0.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+273,house,independent,sector 4,55.0,4074.0,1350.0,3,3,2,2.0,Relatively New,0.0,0,0,0,0,1,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+274,house,ansal sushant lok plots,sector 43,580.0,29974.0,1936.8,6,6,3,2.0,Relatively New,0.0,1,0,0,0,1,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+275,house,independent,sector 43,250.0,25960.0,107.0,2,7,3,4.0,Relatively New,0.0,0,0,0,0,1,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+276,house,independent,sector 43,550.0,28424.0,1936.8,1,1,0,1.0,Old Property,0.0,0,0,0,0,1,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+277,house,unitech deerwood chase,sector 50,1500.0,33333.0,4497.68,4,4,2,2.0,Moderately Old,0.0,1,0,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+278,house,unitech aspen greens,sector 50,695.0,4490.0,2160.0,3,3,1,2.0,Moderately Old,0.0,1,0,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+279,house,ansals palam vihar,sector 2,570.0,14729.0,4550.0,5,5,2,2.0,Old Property,0.0,0,0,1,0,0,0.0,"28.5095° N, 77.0320° E",28.5095,77.032
+280,house,independent,sector 7,66.0,12000.0,550.0,3,1,1,3.0,Relatively New,0.0,0,0,0,0,1,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+281,house,huda ashok vihar phase,sector 4,70.0,10233.0,684.0,3,2,1,2.0,New Property,0.0,0,1,0,0,0,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+282,house,independent,sector 24,145.0,26852.0,60.0,3,3,1,2.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+283,house,independent,sector 41,700.0,28283.0,2474.8,7,7,3+,3.0,Moderately Old,0.0,1,1,1,1,0,61.0,"28.4557° N, 77.0632° E",28.4557,77.0632
+284,house,independent,sector 7,90.0,10000.0,100.0,2,4,3,3.0,Old Property,0.0,1,0,0,0,1,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+285,house,independent,sector 24,275.0,7666.0,3000.0,7,7,3+,3.0,Moderately Old,0.0,0,0,0,0,1,31.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+286,house,independent,sector 6,50.0,8333.0,600.0,3,3,2,2.0,Moderately Old,0.0,0,0,1,0,0,39.0,"28.4745° N, 77.0262° E",28.4745,77.0262
+287,house,independent,sector 105,60.0,13333.0,450.0,3,3,0,3.0,Moderately Old,2.0,0,0,0,0,0,99.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+288,house,independent,sector 105,35.0,7778.0,555.0,2,2,1,2.0,Moderately Old,0.0,0,0,0,0,0,29.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+289,house,dlf city plots,sector 26,400.0,40775.0,979.16,2,3,2,2.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+290,house,not applicable,sector 11,220.00000000000003,12222.0,1800.0,4,3,2,1.0,Old Property,0.0,0,1,1,0,0,9.0,"28.4531° N, 77.0202° E",28.4531,77.0202
+291,house,independent,sector 7,800.0,22222.0,3593.84,4,5,3+,1.0,Old Property,0.0,1,1,1,0,0,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+292,house,independent,sector 12,70.0,4117.0,1700.0,4,4,1,2.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4723° N, 77.0320° E",28.4723,77.032
+293,house,independent,sector 11,95.0,7308.0,1300.0,5,3,0,1.0,Relatively New,1.0,0,0,0,0,0,107.0,"28.4531° N, 77.0202° E",28.4531,77.0202
+294,house,housing board colony,sector 28,350.0,25926.0,1345.0,2,6,3,3.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+295,house,independent,sector 26,600.0,33333.0,1796.92,3,5,3+,3.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+296,house,independent,sector 12,90.0,13333.0,675.0,2,4,0,2.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4723° N, 77.0320° E",28.4723,77.032
+297,house,independent,sector 2,500.0,15384.0,3611.0,6,6,2,1.0,Moderately Old,0.0,0,0,0,0,0,53.0,"28.5095° N, 77.0320° E",28.5095,77.032
+298,house,independent,sector 3,150.0,10288.0,210.0,3,3,0,2.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4909° N, 77.0176° E",28.4909,77.0176
+299,house,independent,sector 7,115.0,8518.0,150.0,5,3,2,2.0,Old Property,0.0,0,0,1,0,0,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+300,house,independent,sector 21,160.0,11852.0,120.0,5,5,2,3.0,Relatively New,1.0,0,0,0,0,0,77.0,"28.5134° N, 77.0723° E",28.5134,77.0723
+301,house,independent,sector 26,700.0,39265.0,1786.16,5,5,2,3.0,Relatively New,0.0,1,0,0,0,0,7.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+302,house,independent,sector 9,50.0,6083.0,822.0,3,2,1,1.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4603° N, 77.0000° E",28.4603,77.0
+303,house,independent,sector 21,45.0,8411.0,594.0,3,2,1,1.0,Old Property,0.0,0,0,0,0,0,0.0,"28.5134° N, 77.0723° E",28.5134,77.0723
+304,house,independent,sector 4,412.0,8889.0,4637.56,2,1,3+,2.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+305,house,bhawani enclave,sector 12,42.0,8235.0,567.0,3,3,0,2.0,New Property,0.0,0,0,1,0,0,49.0,"28.4723° N, 77.0320° E",28.4723,77.032
+306,house,independent,sector 105,120.0,13333.0,900.0,4,4,1,2.0,Moderately Old,0.0,0,0,0,0,1,7.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+307,house,independent,sector 105,135.0,3857.0,3500.0,5,3,3,3.0,Moderately Old,2.0,0,0,0,0,0,0.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+308,house,independent,sector 57,470.0,21759.0,2162.76,3,3,2,2.0,Old Property,0.0,1,0,0,0,1,0.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+309,house,independent,sector 9,22.0,7407.0,37.0,2,2,2,1.0,Moderately Old,1.0,0,0,0,0,0,15.0,"28.4603° N, 77.0000° E",28.4603,77.0
+310,house,project mianwali colony,sector 12,170.0,9444.0,2000.0,1,1,2,1.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4723° N, 77.0320° E",28.4723,77.032
+311,house,independent,sector 2,600.0,20000.0,2991.28,4,4,1,2.0,Relatively New,0.0,0,0,0,0,0,16.0,"28.5095° N, 77.0320° E",28.5095,77.032
+312,house,project housing board colony,sector 28,258.0,17695.0,1301.96,4,2,2,2.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+313,house,independent,sector 21,60.0,6173.0,108.0,3,3,2,3.0,Old Property,0.0,0,0,0,0,0,0.0,"28.5134° N, 77.0723° E",28.5134,77.0723
+314,house,independent,sector 7,116.0,11693.0,1102.0,2,4,2,3.0,Moderately Old,0.0,0,0,0,0,1,14.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+315,house,independent,sector 25,1600.0,26667.0,6000.0,6,5,2,3.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+316,house,independent,sector 43,1400.0,39886.0,3507.76,9,9,3+,4.0,Moderately Old,1.0,1,0,0,0,0,111.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+317,house,independent,sector 50,1320.0,27155.0,4861.0,6,6,0,2.0,Moderately Old,2.0,0,0,0,0,0,106.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+318,house,independent,sector 4,110.0,11111.0,990.0,3,4,1,2.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+319,house,independent,sector 7,53.0,5888.0,900.0,2,2,0,1.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+320,house,independent,sector 7,200.0,11111.0,200.0,2,2,1,2.0,Relatively New,2.0,0,0,0,0,0,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+321,house,independent,sector 13,45.0,4808.0,936.0,1,1,0,1.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4757° N, 77.0392° E",28.4757,77.0392
+322,house,independent,sector 105,37.0,8222.0,450.0,2,2,1,1.0,Moderately Old,2.0,0,0,0,0,1,69.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+323,house,independent,sector 8,62.0,11273.0,550.0,3,1,0,2.0,Relatively New,0.0,0,0,0,0,0,7.0,"28.3738° N, 76.8970° E",28.3738,76.897
+324,house,independent,sector 25,800.0,8000.0,11109.0,3,9,2,3.0,New Property,0.0,0,0,0,0,0,12.0,"28.4844° N, 77.0860° E",28.4844,77.086
+325,house,independent,sector 4,65.0,11111.0,65.0,4,2,2,2.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+326,house,independent,sector 8,160.0,28674.0,62.0,1,6,1,3.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.3738° N, 76.8970° E",28.3738,76.897
+327,house,independent,sector 7,95.0,21111.0,450.0,2,1,1,3.0,New Property,2.0,0,0,0,0,0,26.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+328,house,independent,sector 6,66.0,10784.0,612.0,3,2,1,2.0,Old Property,0.0,0,0,0,0,0,51.0,"28.4745° N, 77.0262° E",28.4745,77.0262
+329,house,independent,sector 4,85.0,7522.0,1130.0,3,3,0,1.0,Moderately Old,0.0,0,0,0,0,0,14.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+330,house,independent,sector 7,45.0,5000.0,1000.0,3,2,0,1.0,Old Property,2.0,0,0,0,0,0,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+331,house,independent,sector 25,1350.0,19286.0,7000.0,9,9,0,1.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+332,house,independent,sector 2,570.0,22634.0,2431.76,9,9,3+,3.0,Moderately Old,0.0,0,0,1,0,0,0.0,"28.5095° N, 77.0320° E",28.5095,77.032
+333,house,ansal sushant lok plots,sector 43,330.0,26570.0,1237.4,1,1,0,2.0,Under Construction,0.0,0,0,0,0,0,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+334,house,independent,sector 7,175.0,11111.0,1575.0,4,2,2,2.0,Old Property,0.0,0,0,0,0,1,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+335,house,independent,sector 4,110.0,6111.0,200.0,4,4,3+,2.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+336,house,independent,sector 17,300.0,11111.0,3000.0,4,4,0,1.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4791° N, 77.0608° E",28.4791,77.0608
+337,house,independent,sector 8,82.0,10224.0,891.0,2,4,0,2.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.3738° N, 76.8970° E",28.3738,76.897
+338,house,independent,sector 105,115.0,3285.0,3888.0,3,2,1,1.0,Moderately Old,1.0,0,0,0,0,0,51.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+339,house,independent,sector 43,575.0,23662.0,2431.76,4,4,2,4.0,Under Construction,0.0,1,0,0,1,0,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+340,house,independent,sector 9,60.0,10753.0,62.0,3,3,1,2.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.4603° N, 77.0000° E",28.4603,77.0
+341,house,independent,sector 13,450.0,9091.0,4949.599999999999,4,5,2,2.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4757° N, 77.0392° E",28.4757,77.0392
+342,house,independent,manesar,200.0,14954.0,1337.0,3,1,0,3.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.3515° N, 76.9428° E",28.3515,76.9428
+343,house,housing board colony,sector 28,210.0,23333.0,100.0,2,8,3+,4.0,Moderately Old,2.0,0,0,0,0,1,33.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+344,house,unitech espace,sector 50,1150.0,35494.0,3240.0,5,6,0,1.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+345,house,independent,sector 13,90.0,11464.0,785.0,2,4,3,3.0,Moderately Old,0.0,1,1,1,0,1,0.0,"28.4757° N, 77.0392° E",28.4757,77.0392
+346,house,not applicable,sector 4,75.0,11718.0,640.0,2,4,3,2.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+347,house,independent,sector 105,130.0,11555.0,1125.0,3,3,1,2.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+348,house,independent,sector 105,130.0,11556.0,1125.0,3,3,1,1.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+349,house,independent,sector 9,60.0,10753.0,62.0,2,2,1,1.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4603° N, 77.0000° E",28.4603,77.0
+350,house,independent,sector 15,107.0,11888.0,900.0,2,2,1,1.0,Old Property,0.0,1,0,0,0,0,8.0,"28.4621° N, 77.0464° E",28.4621,77.0464
+351,house,independent,sector 11,210.0,17284.0,135.0,2,6,3+,3.0,Relatively New,0.0,0,0,0,0,0,9.0,"28.4531° N, 77.0202° E",28.4531,77.0202
+352,house,independent,sector 9,35.0,9722.0,40.0,2,2,1,2.0,Old Property,0.0,0,0,0,0,0,62.0,"28.4603° N, 77.0000° E",28.4603,77.0
+353,house,ansal celebrity homes,sector 2,520.0,10000.0,5200.0,4,5,2,1.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.5095° N, 77.0320° E",28.5095,77.032
+354,house,independent,sector 4,40.0,8889.0,50.0,1,1,0,1.0,Moderately Old,2.0,0,0,0,0,0,7.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+355,house,shri shyam residency,sector 104,62.0,12400.0,900.0,3,3,1,2.0,Moderately Old,0.0,0,0,0,0,1,0.0,"28.4788° N, 76.9960° E",28.4788,76.996
+356,house,independent,sector 4,50.0,9259.0,540.0,2,3,2,3.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+357,house,independent,sector 4,92.0,15257.0,67.0,1,4,3,4.0,Moderately Old,0.0,0,0,0,0,1,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+358,house,independent,sector 25,1350.0,37313.0,3615.36,5,6,3+,4.0,Old Property,2.0,0,0,0,0,1,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+359,house,mian wali,sector 12,170.0,9444.0,1800.0,1,1,1,1.0,Old Property,0.0,1,0,0,0,0,7.0,"28.4723° N, 77.0320° E",28.4723,77.032
+360,house,independent,sector 7,45.0,5000.0,900.0,3,2,1,2.0,Old Property,2.0,0,0,0,0,1,39.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+361,house,independent,sector 105,120.0,10122.0,1185.0,3,2,1,2.0,Old Property,2.0,0,0,0,0,0,146.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+362,house,independent,sector 15,180.0,10000.0,200.0,4,3,1,1.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4621° N, 77.0464° E",28.4621,77.0464
+363,house,palam vihar extension west zone rwa,sector 2,35.0,6481.0,600.0,2,2,0,1.0,New Property,1.0,0,0,0,0,0,0.0,"28.5095° N, 77.0320° E",28.5095,77.032
+364,house,not applicable,sector 4,40.0,9259.0,432.0,1,1,1,1.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+365,house,row house,sector 105,42.75,9135.0,1050.0,3,3,3,2.0,Relatively New,0.0,0,0,0,0,0,0.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+366,house,independent,sector 8,32.0,7111.0,450.0,2,3,1,1.0,Relatively New,0.0,0,0,0,0,0,8.0,"28.3738° N, 76.8970° E",28.3738,76.897
+367,house,independent,sector 4,47.0,8012.0,624.0,2,1,1,1.0,Moderately Old,0.0,0,0,0,1,0,0.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+368,house,madan puri,sector 7,75.0,12500.0,600.0,3,5,3,3.0,Moderately Old,0.0,0,0,0,0,0,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+369,house,independent,sector 12,135.0,12222.0,2052.0,5,5,1,3.0,Old Property,1.0,0,0,0,0,0,0.0,"28.4723° N, 77.0320° E",28.4723,77.032
+370,house,independent,sector 6,125.0,11574.0,120.0,2,5,1,2.0,New Property,0.0,0,0,1,0,0,68.0,"28.4745° N, 77.0262° E",28.4745,77.0262
+371,house,dlf city plots phase 3,sector 24,144.0,26667.0,60.0,4,2,2,1.0,Old Property,0.0,0,0,0,0,0,15.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+372,house,naman residency,sector 4,50.0,11111.0,450.0,2,2,2,2.0,New Property,0.0,1,1,1,0,1,49.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+373,house,independent,sector 2,100.0,8230.0,135.0,3,7,3+,3.0,Moderately Old,0.0,0,0,1,0,0,15.0,"28.5095° N, 77.0320° E",28.5095,77.032
+374,house,housing board colony,sector 28,550.0,30556.0,1796.92,4,3,3,2.0,Old Property,0.0,0,0,1,0,1,9.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+375,house,independent,sector 4,80.0,11852.0,75.0,2,3,1,2.0,Moderately Old,0.0,0,0,0,0,0,37.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+376,house,independent,sector 11,90.0,10000.0,900.0,2,4,3+,4.0,Moderately Old,0.0,0,0,0,0,0,23.0,"28.4531° N, 77.0202° E",28.4531,77.0202
+377,house,independent,sector 24,325.0,30384.0,1065.24,4,4,3,3.0,Old Property,2.0,0,0,0,0,0,23.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+378,house,independent,sector 12,371.0,19818.0,1872.24,3,3,1,4.0,Moderately Old,0.0,0,0,1,0,0,8.0,"28.4723° N, 77.0320° E",28.4723,77.032
+379,house,independent,sector 2,40.0,7619.0,583.0,2,2,1,1.0,Relatively New,0.0,0,0,0,0,0,36.0,"28.5095° N, 77.0320° E",28.5095,77.032
+380,house,rattan garden,sector 7,130.0,13499.0,963.0,2,3,2,3.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+381,house,unitech escape,sector 50,1200.0,37037.0,3238.76,5,6,3+,3.0,Moderately Old,2.0,0,0,0,0,0,102.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+382,house,independent,sector 4,70.0,6648.0,117.0,3,3,0,1.0,Moderately Old,2.0,0,0,0,0,0,153.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+383,house,shivaji nagar residential,sector 11,308.0,11407.0,2700.0,6,4,2,1.0,Relatively New,0.0,0,0,0,0,0,153.0,"28.4531° N, 77.0202° E",28.4531,77.0202
+384,house,independent,sector 28,145.0,8000.0,1800.0,3,2,1,1.0,Relatively New,0.0,0,0,0,0,0,54.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+385,house,independent,sector 12,38.0,4222.0,900.0,3,3,3,3.0,Relatively New,2.0,0,0,0,0,0,112.0,"28.4723° N, 77.0320° E",28.4723,77.032
+386,house,independent,sector 47,460.0,26620.0,1732.36,2,6,3+,4.0,Moderately Old,0.0,0,0,0,0,0,33.0,"28.4276° N, 77.0492° E",28.4276,77.0492
+387,house,jacob pura,sector 12,35.0,9722.0,360.0,2,1,0,2.0,Old Property,0.0,0,0,0,0,0,66.0,"28.4723° N, 77.0320° E",28.4723,77.032
+388,house,independent,sector 17,29.0,3254.0,891.0,2,1,0,0.0,Old Property,0.0,0,0,0,0,0,82.0,"28.4791° N, 77.0608° E",28.4791,77.0608
+389,house,"nirmal enclave, maruti kunj road",sector 11,24.0,5333.0,450.0,2,2,0,2.0,Relatively New,2.0,0,0,0,0,0,142.0,"28.4531° N, 77.0202° E",28.4531,77.0202
+390,house,ansals palam vihar,sector 2,500.0,12500.0,4000.0,6,4,0,3.0,Moderately Old,0.0,0,0,0,0,0,133.0,"28.5095° N, 77.0320° E",28.5095,77.032
+391,house,independent,sector 11,180.0,8078.0,2475.0,8,5,2,1.0,Relatively New,0.0,0,0,0,0,0,38.0,"28.4531° N, 77.0202° E",28.4531,77.0202
+392,house,independent,sector 11,44.0,4251.0,128.0,3,2,1,1.0,Relatively New,2.0,0,0,1,0,1,145.0,"28.4531° N, 77.0202° E",28.4531,77.0202
+393,house,independent,sector 4,47.5,3519.0,1350.0,3,4,0,3.0,Moderately Old,2.0,0,0,0,0,0,121.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+394,house,independent,sector 7,120.0,11194.0,1072.0,2,4,2,3.0,Old Property,2.0,0,0,0,0,0,109.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+395,house,independent,sector 105,74.0,7400.0,1000.0,3,3,0,2.0,Moderately Old,1.0,0,0,0,0,0,110.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+396,house,independent,sector 7,69.0,9103.0,758.0,1,1,1,2.0,Old Property,2.0,0,0,0,0,0,49.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+397,house,independent,sector 25,1300.0,45710.0,2840.64,6,8,3+,2.0,Relatively New,1.0,1,1,1,1,0,110.0,"28.4844° N, 77.0860° E",28.4844,77.086
+398,house,independent,sector 12,140.0,8702.0,166.0,2,2,1,2.0,Old Property,1.0,0,0,0,0,0,28.0,"28.4723° N, 77.0320° E",28.4723,77.032
+399,house,independent,sector 43,335.0,26973.0,1237.4,1,1,0,1.0,Old Property,0.0,0,0,0,0,0,19.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+400,house,independent,sector 50,700.0,32407.0,2162.76,3,2,0,1.0,Moderately Old,2.0,0,0,0,0,0,145.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+401,house,independent,sector 7,243.00000000000003,14890.0,345.0,4,4,2,3.0,Old Property,2.0,0,1,1,1,0,80.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+402,house,independent,sector 28,70.0,8101.0,864.0,2,2,0,2.0,Old Property,0.0,0,0,0,0,0,49.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+403,house,independent,sector 12,120.0,14184.0,846.0,2,4,2,2.0,Relatively New,2.0,0,0,1,0,0,49.0,"28.4723° N, 77.0320° E",28.4723,77.032
+404,house,independent,sector 26,450.0,33333.0,1345.0,5,5,3+,2.0,Old Property,0.0,0,0,0,0,0,138.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+405,house,independent,sector 3,90.0,10000.0,3500.0,3,4,3,3.0,Moderately Old,0.0,0,0,0,0,1,145.0,"28.4909° N, 77.0176° E",28.4909,77.0176
+406,house,not applicable,sector 4,65.0,13000.0,500.0,2,1,1,3.0,Moderately Old,2.0,0,0,0,0,0,138.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+407,house,independent,sector 24,1100.0,28898.0,5000.0,8,11,3+,3.0,Old Property,1.0,1,1,1,0,1,128.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+408,house,independent,sector 36,65.8,7168.0,823.0,2,2,3,4.0,New Property,2.0,0,0,0,0,0,160.0,"28.4160° N, 76.9914° E",28.416,76.9914
+409,house,independent,sector 43,190.0,35185.0,60.0,3,3,3+,3.0,Old Property,2.0,0,0,0,0,0,160.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+410,house,independent,sector 11,250.0,17857.0,1850.0,5,4,3,1.0,Old Property,2.0,0,0,0,1,0,19.0,"28.4531° N, 77.0202° E",28.4531,77.0202
+411,house,independent,sector 2,70.0,7777.0,900.0,1,1,0,1.0,Moderately Old,2.0,0,0,0,0,0,105.0,"28.5095° N, 77.0320° E",28.5095,77.032
+412,house,independent,sector 12,170.0,8000.0,2000.0,5,5,3,3.0,Moderately Old,1.0,0,0,1,0,1,160.0,"28.4723° N, 77.0320° E",28.4723,77.032
+413,house,independent,sector 105,990.0,49500.0,2000.0,2,2,2,3.0,Moderately Old,1.0,0,0,0,0,0,155.0,"28.4952° N, 77.0114° E",28.4952,77.0114
+414,house,independent,sector 43,215.0,13030.0,1650.0,1,1,0,1.0,Moderately Old,2.0,0,0,0,0,0,160.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+415,house,independent,sector 24,260.0,24074.0,1076.0,4,4,3+,4.0,Relatively New,2.0,0,1,1,1,0,49.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+416,house,project mianwali colony,sector 12,200.0,14815.0,1350.0,5,5,2,3.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4723° N, 77.0320° E",28.4723,77.032
+417,house,independent,sector 24,350.0,32407.0,1076.0,2,4,3,3.0,Old Property,0.0,0,0,0,0,0,32.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+418,house,independent,sector 4,55.0,6813.0,75.0,2,1,1,1.0,Moderately Old,2.0,0,0,0,0,0,130.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+419,house,independent,sector 7,650.0,15046.0,4314.76,3,2,3+,2.0,Old Property,2.0,0,0,0,0,0,60.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+420,house,independent,sector 28,139.0,11583.0,1450.0,2,2,1,3.0,Old Property,1.0,0,0,0,1,0,102.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+421,house,independent,sector 12,70.0,6034.0,1160.0,3,3,0,1.0,Relatively New,1.0,0,0,0,0,0,152.0,"28.4723° N, 77.0320° E",28.4723,77.032
+422,house,independent,sector 12,290.0,10740.0,2700.0,7,7,3,2.0,Old Property,1.0,0,0,0,0,0,97.0,"28.4723° N, 77.0320° E",28.4723,77.032
+423,house,palam vihar extension west zone rwa,sector 2,40.0,4444.0,900.0,3,4,2,2.0,Moderately Old,2.0,0,0,0,0,0,22.0,"28.5095° N, 77.0320° E",28.5095,77.032
+424,house,ss aaron ville,sector 49,675.0,19737.0,3421.68,5,4,2,2.0,Old Property,0.0,1,1,0,1,0,97.0,"28.4121° N, 77.0480° E",28.4121,77.048
+425,house,independent,sector 7,27.0,12000.0,225.0,2,2,1,2.0,Moderately Old,0.0,0,0,0,0,0,21.0,"28.4644° N, 77.0143° E",28.4644,77.0143
+426,house,independent,sector 26,810.0,35294.0,2291.88,5,5,2,4.0,Old Property,0.0,0,0,0,0,0,69.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+427,house,independent,sector 104,60.0,5128.0,130.0,4,3,1,2.0,Moderately Old,2.0,0,0,0,0,0,72.0,"28.4788° N, 76.9960° E",28.4788,76.996
+428,house,palam vihar extension west zone rwa,sector 2,65.0,5777.0,1125.0,2,2,1,1.0,Moderately Old,0.0,0,0,0,1,0,40.0,"28.5095° N, 77.0320° E",28.5095,77.032
+429,house,independent,sector 12,150.0,11111.0,150.0,5,5,2,3.0,Old Property,0.0,0,0,0,0,0,59.0,"28.4723° N, 77.0320° E",28.4723,77.032
+430,house,dlf city plots phase 2,sector 25,1550.0,34307.0,4519.2,5,6,3+,3.0,Moderately Old,0.0,1,1,1,1,0,38.0,"28.4844° N, 77.0860° E",28.4844,77.086
+431,house,dlf city plots phase 4,sector 28,954.0,29444.0,3238.76,6,5,3+,3.0,New Property,0.0,1,1,1,1,0,0.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+432,house,dlf city plots phase 2,sector 25,1055.0,39074.0,2700.76,5,6,3+,3.0,Moderately Old,0.0,1,1,1,1,0,160.0,"28.4844° N, 77.0860° E",28.4844,77.086
+433,house,dlf city plots,sector 26,1730.0,38734.0,4519.2,6,7,3+,3.0,New Property,2.0,1,1,1,1,0,111.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+434,house,independent,sector 2,365.0,23442.0,1560.2,3,9,3+,3.0,New Property,2.0,1,0,1,0,0,49.0,"28.5095° N, 77.0320° E",28.5095,77.032
+435,house,independent,sector 26,1890.0,41833.0,4519.2,6,8,2,3.0,Relatively New,2.0,1,1,1,1,0,72.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+436,house,independent,sector 41,900.0,27778.0,3238.76,8,5,3+,3.0,Old Property,0.0,1,0,1,1,0,153.0,"28.4557° N, 77.0632° E",28.4557,77.0632
+437,house,nirvana cedar crest,sector 50,399.0,8866.0,4500.0,4,5,3+,4.0,New Property,2.0,1,0,1,0,0,160.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+438,house,dlf city plots phase 2,sector 25,650.0,36111.0,1796.92,5,5,3+,3.0,Old Property,0.0,1,1,1,1,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+439,house,malibu towne,sector 47,881.0,27191.0,3238.76,8,6,3+,3.0,Moderately Old,0.0,1,1,0,0,1,151.0,"28.4276° N, 77.0492° E",28.4276,77.0492
+440,house,independent,sector 26,890.0,32963.0,2700.76,4,4,3+,2.0,Old Property,2.0,1,1,1,1,0,49.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+441,house,dlf city plots phase 2,sector 25,650.0,33592.0,1936.8,3,9,3+,3.0,Old Property,0.0,1,1,1,1,0,101.0,"28.4844° N, 77.0860° E",28.4844,77.086
+442,house,independent,sector 23,290.0,11600.0,2500.0,4,4,3,2.0,Relatively New,2.0,1,0,0,0,0,36.0,"28.5121° N, 77.0478° E",28.5121,77.0478
+443,house,independent,sector 41,1100.0,33951.0,3238.76,4,4,2,3.0,New Property,0.0,1,1,1,0,0,13.0,"28.4557° N, 77.0632° E",28.4557,77.0632
+444,house,central park flower valley cerise floors,sector 33,135.0,11157.0,1210.0,2,2,2,4.0,New Property,2.0,0,1,0,0,0,151.0,"28.4420° N, 77.0207° E",28.442,77.0207
+445,house,independent,sector 4,190.0,8444.0,211.0,4,3,2,2.0,Moderately Old,2.0,0,0,1,1,0,142.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+446,house,dlf city plots,sector 26,1900.0,42054.0,4519.2,6,6,3,2.0,Relatively New,0.0,1,1,0,0,0,51.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+447,house,independent,sector 25,730.0,1560.0,5800.0,3,9,2,3.0,Relatively New,2.0,1,0,0,1,0,49.0,"28.4844° N, 77.0860° E",28.4844,77.086
+448,house,independent,sector 43,255.0,13178.0,1936.8,3,3,2,3.0,Relatively New,2.0,0,0,0,0,0,49.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+449,house,independent,sector 23,240.0,12000.0,2000.0,3,3,2,2.0,Moderately Old,2.0,0,0,1,1,0,54.0,"28.5121° N, 77.0478° E",28.5121,77.0478
+450,house,independent,sector 55,460.0,21296.0,2162.76,3,3,3+,2.0,Old Property,2.0,1,0,1,1,0,153.0,"28.4281° N, 77.1100° E",28.4281,77.11
+451,house,ansal api spanish court,sector 2,290.0,18626.0,1560.2,4,4,3,2.0,Relatively New,0.0,0,0,0,1,0,61.0,"28.5095° N, 77.0320° E",28.5095,77.032
+452,house,independent,sector 43,2750.0,24366.0,11287.24,6,7,3+,3.0,Relatively New,1.0,1,1,1,0,1,123.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+453,house,independent,sector 57,831.0,24171.0,3432.44,5,6,3+,4.0,Old Property,2.0,1,1,1,1,0,160.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+454,house,independent,sector 57,621.0,23000.0,2700.76,6,6,3+,4.0,Old Property,0.0,1,1,1,1,0,68.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+455,house,independent,sector 45,735.0,29697.0,2474.8,6,4,3+,3.0,Old Property,1.0,1,1,1,1,0,49.0,"28.4466° N, 77.0660° E",28.4466,77.066
+456,house,dlf city plots phase 2,sector 25,450.0,33333.0,1345.0,5,3,2,3.0,Old Property,1.0,0,0,1,1,0,49.0,"28.4844° N, 77.0860° E",28.4844,77.086
+457,house,independent,sector 25,650.0,36111.0,1796.92,4,3,3,3.0,Moderately Old,2.0,0,1,1,0,0,103.0,"28.4844° N, 77.0860° E",28.4844,77.086
+458,house,dlf city plots phase 2,sector 25,750.0,31686.0,1936.8,2,9,3+,4.0,Relatively New,2.0,1,1,1,0,0,74.0,"28.4844° N, 77.0860° E",28.4844,77.086
+459,house,independent,sector 25,435.0,32222.0,1345.0,5,4,3,3.0,Old Property,0.0,1,0,0,0,0,153.0,"28.4844° N, 77.0860° E",28.4844,77.086
+460,house,ansals palam vihar,sector 2,275.0,17662.0,1560.2,3,3,3,2.0,Moderately Old,2.0,0,1,1,0,0,145.0,"28.5095° N, 77.0320° E",28.5095,77.032
+461,house,dlf city plots,sector 26,1800.0,39841.0,4519.2,6,6,2,3.0,Old Property,0.0,1,0,1,0,1,21.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+462,house,dlf city plots,sector 26,1700.0,37627.0,4519.2,5,6,3,2.0,Old Property,2.0,1,0,1,1,0,27.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+463,house,dlf city plots,sector 26,1350.0,29880.0,4519.2,5,5,3,2.0,Old Property,0.0,1,1,1,1,0,153.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+464,house,independent,sector 50,1055.0,32562.0,3238.76,5,5,3,2.0,Moderately Old,2.0,1,1,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+465,house,independent,sector 24,525.0,38889.0,1463.36,4,4,3+,2.0,Relatively New,0.0,1,0,1,0,0,91.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+466,house,independent,sector 4,46.75,10601.0,50.0,2,2,1,2.0,New Property,2.0,0,1,0,0,0,49.0,"28.4738° N, 77.0107° E",28.4738,77.0107
+467,house,unitech espace,sector 50,1045.0,32253.0,3238.76,5,7,3+,3.0,Moderately Old,1.0,1,1,1,0,1,72.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+468,house,independent,sector 2,295.0,15989.0,1839.96,4,4,3+,2.0,Old Property,2.0,0,0,0,0,0,56.0,"28.5095° N, 77.0320° E",28.5095,77.032
+469,house,independent,sector 2,300.0,19268.0,1560.2,6,4,3+,3.0,Old Property,2.0,0,0,0,0,0,30.0,"28.5095° N, 77.0320° E",28.5095,77.032
+470,house,independent,sector 2,115.0,19360.0,66.0,3,3,2,2.0,Old Property,2.0,0,0,0,0,0,126.0,"28.5095° N, 77.0320° E",28.5095,77.032
+471,house,dlf city plots,sector 26,1350.0,29880.0,4519.2,5,5,2,2.0,Moderately Old,2.0,1,1,0,0,1,40.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+472,house,nul,sector 25,1500.0,23437.0,6400.0,5,5,3,2.0,Moderately Old,2.0,1,1,1,0,0,40.0,"28.4844° N, 77.0860° E",28.4844,77.086
+473,house,independent,sector 43,550.0,2716.0,2850.0,3,7,3+,3.0,Moderately Old,2.0,1,1,1,0,1,33.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+474,house,independent,sector 26,1800.0,39841.0,4519.2,5,4,3+,4.0,Moderately Old,2.0,1,1,1,1,0,33.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+475,house,independent,sector 26,580.0,32222.0,1796.92,4,3,2,2.0,Relatively New,0.0,0,0,0,1,0,76.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+476,house,dlf floors phase 3,sector 24,351.0,12342.0,2840.64,4,4,3,4.0,Under Construction,0.0,1,1,1,1,0,110.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+477,house,unitech espace,sector 50,1030.0,31790.0,3238.76,5,6,3+,3.0,Moderately Old,0.0,1,1,1,1,0,34.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+478,house,independent,sector 41,725.0,29293.0,2474.8,9,8,3,4.0,Old Property,2.0,1,0,0,0,0,77.0,"28.4557° N, 77.0632° E",28.4557,77.0632
+479,house,independent,sector 23,400.0,16004.0,2431.76,3,3,2,2.0,Moderately Old,2.0,1,0,0,0,0,71.0,"28.5121° N, 77.0478° E",28.5121,77.0478
+480,house,dlf city plots,sector 26,1250.0,38580.0,3238.76,4,5,2,2.0,Moderately Old,0.0,1,1,0,0,0,49.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+481,house,independent,sector 26,1600.0,35556.0,4497.68,5,6,3,2.0,Old Property,1.0,0,0,0,0,0,29.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+482,house,independent,sector 26,1250.0,38580.0,3238.76,5,5,3+,2.0,Old Property,2.0,1,1,1,1,0,103.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+483,house,independent,sector 45,1600.0,35000.0,4497.68,6,7,3+,3.0,Relatively New,2.0,1,1,1,1,0,148.0,"28.4466° N, 77.0660° E",28.4466,77.066
+484,house,independent,sector 45,1000.0,30864.0,3238.76,6,6,3+,4.0,Moderately Old,2.0,1,1,1,1,0,71.0,"28.4466° N, 77.0660° E",28.4466,77.066
+485,house,independent,sector 26,675.0,27778.0,2431.76,3,3,3,2.0,Moderately Old,2.0,0,0,0,0,0,30.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+486,house,independent,sector 2,250.0,16056.0,173.0,4,4,2,4.0,Old Property,2.0,0,0,0,0,0,13.0,"28.5095° N, 77.0320° E",28.5095,77.032
+487,house,independent,sector 26,1840.0,1859.0,12220.0,6,8,3+,4.0,Relatively New,0.0,1,0,1,1,0,61.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+488,house,ansal sushant residency,sector 57,460.0,17037.0,2700.76,6,6,3,3.0,Old Property,0.0,1,1,1,1,0,24.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+489,house,ansals florence villa,sector 57,365.0,10579.0,3450.0,6,6,2,3.0,Moderately Old,2.0,1,1,1,1,0,124.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+490,house,independent,sector 28,1200.0,42194.0,2840.64,4,5,3+,4.0,Relatively New,2.0,1,0,1,1,0,114.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+491,house,independent,sector 49,450.0,15625.0,2883.68,8,8,3,3.0,Moderately Old,1.0,1,1,1,1,0,49.0,"28.4121° N, 77.0480° E",28.4121,77.048
+492,house,uppal southend,sector 49,440.00000000000006,15278.0,2883.68,6,6,3,3.0,Moderately Old,2.0,1,1,1,1,0,160.0,"28.4121° N, 77.0480° E",28.4121,77.048
+493,house,independent,sector 47,99.0,17187.0,64.0,1,4,3,4.0,Relatively New,2.0,0,0,0,0,0,6.0,"28.4276° N, 77.0492° E",28.4276,77.0492
+494,house,independent,sector 26,2000.0,44444.0,4497.68,5,7,3+,3.0,Relatively New,2.0,1,0,1,0,0,29.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+495,house,dlf south city 1,sector 41,265.0,18928.0,2162.76,3,3,3,4.0,New Property,2.0,1,0,0,0,0,58.0,"28.4557° N, 77.0632° E",28.4557,77.0632
+496,house,independent,sector 2,600.0,24691.0,2431.76,5,6,3+,3.0,Old Property,2.0,0,1,1,0,1,106.0,"28.5095° N, 77.0320° E",28.5095,77.032
+497,house,unitech espace,sector 50,1129.0,34846.0,3238.76,5,5,3+,2.0,Moderately Old,2.0,0,1,1,0,0,26.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+498,house,independent,sector 43,849.0,31444.0,2700.76,3,3,2,4.0,Relatively New,0.0,1,0,1,0,0,35.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+499,house,independent,sector 2,1950.0,27083.0,7198.44,8,9,3+,2.0,New Property,2.0,1,1,1,0,0,106.0,"28.5095° N, 77.0320° E",28.5095,77.032
+500,house,independent,sector 25,431.0,31926.0,1345.0,5,4,3,3.0,Old Property,2.0,0,0,0,0,0,145.0,"28.4844° N, 77.0860° E",28.4844,77.086
+501,house,ansal sushant lok,sector 43,1050.0,27911.0,3766.0,4,4,2,2.0,Old Property,1.0,1,0,0,0,0,29.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+502,house,independent,sector 25,1050.0,29022.0,3615.36,5,5,3,3.0,Moderately Old,2.0,1,1,1,0,0,21.0,"28.4844° N, 77.0860° E",28.4844,77.086
+503,house,independent,sector 50,1158.0,35741.0,3238.76,5,5,3,2.0,Moderately Old,0.0,1,0,0,0,0,27.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+504,house,ansals palam vihar,sector 2,400.0,16666.0,2400.0,4,4,3+,2.0,Moderately Old,2.0,1,0,0,0,0,27.0,"28.5095° N, 77.0320° E",28.5095,77.032
+505,house,unitech aspen greens,sector 50,680.0,31481.0,2162.76,4,5,3,3.0,Old Property,0.0,1,1,0,0,0,21.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+506,house,sushant lok 1 builder floors,sector 43,1085.0,28841.0,3766.0,8,8,3,3.0,Moderately Old,2.0,1,1,1,1,0,28.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+507,house,ansals florence villa,sector 57,600.0,22222.0,2700.76,4,5,2,2.0,Old Property,2.0,1,0,1,0,0,145.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+508,house,independent,sector 57,725.0,26852.0,2700.76,9,9,3+,2.0,New Property,0.0,1,0,1,0,1,25.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+509,house,independent,sector 43,1550.0,28233.0,5487.599999999999,5,6,3,3.0,Moderately Old,2.0,1,1,1,1,0,94.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+510,house,independent,sector 28,1125.0,34722.0,3238.76,9,9,3+,2.0,Moderately Old,2.0,1,0,1,1,0,40.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+511,house,ansals florence villa,sector 57,330.0,19820.0,1667.8,4,3,3+,2.0,Moderately Old,0.0,1,1,1,1,0,84.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+512,house,independent,sector 43,850.0,31481.0,2700.76,5,5,3,3.0,Moderately Old,2.0,1,0,0,0,0,110.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+513,house,independent,sector 45,850.0,26235.0,3238.76,5,4,2,1.0,Moderately Old,0.0,1,0,1,0,0,81.0,"28.4466° N, 77.0660° E",28.4466,77.066
+514,house,unitech nirvana birch court,sector 50,1195.0,36883.0,3238.76,3,3,2,1.0,Moderately Old,0.0,1,1,0,0,0,80.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+515,house,unitech aspen greens,sector 50,1200.0,37037.0,3238.76,3,4,2,1.0,Moderately Old,0.0,1,1,0,0,0,41.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+516,house,ansal sushant lok plots,sector 43,1150.0,17692.0,9000.0,7,8,3+,3.0,Old Property,0.0,1,0,1,1,0,58.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+517,house,independent,sector 26,1500.0,33333.0,4500.0,4,4,3,3.0,Moderately Old,2.0,1,0,0,1,0,59.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+518,house,independent,sector 57,349.0,20197.0,1732.36,4,4,2,3.0,Moderately Old,2.0,1,1,1,0,0,57.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+519,house,independent,sector 55,164.0,10123.0,180.0,3,3,2,4.0,New Property,2.0,1,1,0,0,0,81.0,"28.4281° N, 77.1100° E",28.4281,77.11
+520,house,unitech palms south city 1,sector 41,925.0,28549.0,5000.0,9,9,3+,4.0,Moderately Old,2.0,1,1,1,1,0,73.0,"28.4557° N, 77.0632° E",28.4557,77.0632
+521,house,independent,sector 28,840.0,34568.0,2431.76,4,4,3+,2.0,Relatively New,0.0,1,0,1,1,0,69.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+522,house,independent,sector 26,2300.0,25556.0,8995.36,4,4,3+,2.0,Relatively New,0.0,1,1,1,1,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+523,house,independent,sector 25,650.0,36111.0,1796.92,4,4,3+,2.0,Moderately Old,0.0,1,1,1,1,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+524,house,sushant lok 1 builder floors,sector 43,245.00000000000003,7756.0,540.0,1,4,3+,3.0,Moderately Old,0.0,1,1,1,0,1,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+525,house,independent,sector 23,550.0,21825.0,2517.84,8,8,2,3.0,Moderately Old,0.0,1,1,1,0,0,0.0,"28.5121° N, 77.0478° E",28.5121,77.0478
+526,house,independent,sector 54,351.0,12342.0,2840.64,4,4,3,4.0,New Property,0.0,1,0,0,0,0,0.0,"28.4348° N, 77.1089° E",28.4348,77.1089
+527,house,independent,sector 43,785.0,29074.0,2700.76,9,9,3+,3.0,Relatively New,0.0,1,1,1,0,1,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+528,house,independent,sector 26,1350.0,29880.0,4519.2,5,5,3+,2.0,Relatively New,0.0,1,1,1,0,1,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+529,house,independent,sector 26,1900.0,42222.0,4497.68,6,8,3+,3.0,Moderately Old,0.0,1,1,1,1,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+530,house,independent,sector 57,350.0,21605.0,1624.76,4,4,3+,3.0,Old Property,0.0,0,0,0,1,0,0.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+531,house,dlf city plots,sector 26,1600.0,37778.0,4497.68,4,4,3,1.0,Relatively New,0.0,0,1,1,1,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+532,house,ansals palam vihar,sector 2,268.0,17213.0,1560.2,4,3,2,3.0,Moderately Old,0.0,0,0,0,1,0,0.0,"28.5095° N, 77.0320° E",28.5095,77.032
+533,house,independent,sector 43,985.0,29638.0,3766.0,5,5,2,3.0,Old Property,0.0,1,1,1,0,0,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+534,house,sushant lok 1 builder floors,sector 43,1300.0,48148.0,2700.76,3,3,3+,4.0,New Property,0.0,0,0,1,0,0,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+535,house,unitech espace,sector 50,980.0,30247.0,3238.76,4,4,3,2.0,Moderately Old,0.0,1,0,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+536,house,independent,sector 2,495.0,20370.0,2431.76,6,5,3+,3.0,Relatively New,0.0,1,0,0,0,0,0.0,"28.5095° N, 77.0320° E",28.5095,77.032
+537,house,independent,sector 2,499.0,18889.0,2431.76,4,4,3+,3.0,Moderately Old,0.0,1,0,1,1,0,0.0,"28.5095° N, 77.0320° E",28.5095,77.032
+538,house,independent,sector 43,950.0,42222.0,2722.28,5,5,3+,2.0,Relatively New,0.0,1,0,1,0,0,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+539,house,ansals palam vihar,sector 2,900.0,19231.0,4680.599999999999,5,5,2,2.0,Old Property,0.0,1,1,1,1,0,0.0,"28.5095° N, 77.0320° E",28.5095,77.032
+540,house,independent,sector 57,360.0,20833.0,1732.36,4,4,2,2.0,Old Property,0.0,1,1,1,1,0,0.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+541,house,independent,sector 26,900.0,33333.0,2700.76,5,5,2,3.0,Old Property,0.0,1,1,1,1,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+542,house,independent,sector 43,530.0,27390.0,1936.8,3,9,3+,3.0,Moderately Old,0.0,1,0,0,0,0,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+543,house,sushant lok 1 builder floors,sector 43,625.0,30728.0,2033.64,7,7,3+,3.0,Moderately Old,0.0,1,1,0,1,0,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+544,house,dlf city plots phase 2,sector 25,630.0,35000.0,1796.92,4,4,3+,2.0,Old Property,0.0,1,0,0,1,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+545,house,independent,sector 28,1175.0,41315.0,2840.64,4,5,3+,4.0,Relatively New,0.0,1,1,0,1,0,0.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+546,house,central park flower valley,sector 33,115.0,9349.0,1400.0,2,2,3,2.0,Relatively New,0.0,0,1,0,0,0,0.0,"28.4420° N, 77.0207° E",28.442,77.0207
+547,house,arjun marg/ sector- 26 phase- 1/ golf course road,sector 26,3150.0,35000.0,8995.36,7,9,3+,3.0,Moderately Old,0.0,1,1,1,1,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+548,house,independent,sector 26,1700.0,37627.0,4519.2,5,5,3+,2.0,Relatively New,0.0,1,1,1,1,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+549,house,sushant lok 1 builder floors,sector 43,165.0,30556.0,540.0,1,4,3+,4.0,Moderately Old,0.0,0,0,0,0,1,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+550,house,the laburnum,sector 43,1100.0,27160.0,4045.76,5,6,3+,3.0,New Property,0.0,1,0,1,0,0,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+551,house,independent,sector 25,1100.0,35530.0,3098.88,5,5,3+,2.0,Relatively New,0.0,1,1,1,1,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+552,house,independent,sector 26,450.0,33333.0,1345.0,3,3,2,2.0,Old Property,0.0,0,0,1,0,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+553,house,independent,sector 43,525.0,27132.0,1936.8,4,4,2,2.0,Old Property,0.0,1,1,0,0,0,0.0,"28.4629° N, 77.0772° E",28.4629,77.0772
+554,house,independent,sector 24,650.0,22855.0,2840.64,4,4,2,2.0,Old Property,0.0,0,0,1,0,0,0.0,"28.4939° N, 77.1038° E",28.4939,77.1038
+555,house,unitech espace,sector 50,1100.0,40741.0,3238.76,4,4,3+,2.0,Moderately Old,0.0,1,0,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+556,house,unitech espace,sector 50,750.0,34722.0,2162.76,3,3,2,2.0,Moderately Old,0.0,1,0,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+557,house,independent,sector 25,990.0,29333.0,3378.64,5,5,2,2.0,Moderately Old,0.0,0,0,1,0,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+558,house,uppal southend,sector 49,675.0,32328.0,2087.44,4,4,3,3.0,Relatively New,0.0,1,0,0,0,0,0.0,"28.4121° N, 77.0480° E",28.4121,77.048
+559,house,uppal southend,sector 49,375.0,25562.0,1463.36,2,6,3+,3.0,Moderately Old,0.0,0,1,0,0,0,0.0,"28.4121° N, 77.0480° E",28.4121,77.048
+560,house,ss aaron ville,sector 49,675.0,15000.0,4500.0,5,4,2,2.0,New Property,0.0,0,0,0,0,1,0.0,"28.4121° N, 77.0480° E",28.4121,77.048
+561,house,independent,sector 25,1000.0,37037.0,9500.0,5,5,3+,3.0,Moderately Old,0.0,1,0,1,0,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+562,house,independent,sector 28,1050.0,32407.0,3238.76,5,6,3+,3.0,New Property,0.0,1,1,1,0,0,0.0,"28.4728° N, 77.0865° E",28.4728,77.0865
+563,house,unitech aspen greens,sector 50,700.0,32407.0,2162.76,4,4,2,2.0,Old Property,0.0,1,0,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+564,house,ss aaron ville,sector 49,650.0,18808.0,3453.96,5,5,2,2.0,Relatively New,0.0,1,1,1,0,0,0.0,"28.4121° N, 77.0480° E",28.4121,77.048
+565,house,unitech nirvana birch court,sector 50,680.0,31481.0,2162.76,4,4,3+,2.0,Old Property,0.0,1,1,1,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+566,house,independent,sector 26,445.0,35185.0,1345.0,4,4,3,3.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+567,house,nirvana cedar crest,sector 50,710.0,32870.0,2162.76,5,4,3,2.0,Moderately Old,0.0,0,1,1,1,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+568,house,nul,sector 25,950.0,33404.0,2840.64,9,9,3+,3.0,Old Property,0.0,0,0,0,0,1,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
+569,house,independent,sector 26,400.0,29630.0,1345.0,4,4,3,2.0,Old Property,0.0,0,0,0,1,0,0.0,"28.4757° N, 77.1032° E",28.4757,77.1032
+570,house,unitech espace,sector 50,745.0,34491.0,4500.0,4,4,3,3.0,Old Property,0.0,1,0,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+571,house,unitech espace,sector 50,742.0,34351.0,3200.0,4,4,3,2.0,Old Property,0.0,0,0,0,0,0,0.0,"28.4178° N, 77.0628° E",28.4178,77.0628
+572,house,independent,sector 55,310.0,20026.0,1549.44,5,4,3+,2.0,Moderately Old,0.0,1,0,0,1,0,0.0,"28.4281° N, 77.1100° E",28.4281,77.11
+573,house,independent,sector 57,475.0,28787.0,1603.24,3,3,3,2.0,Moderately Old,0.0,0,0,0,1,0,0.0,"28.4232° N, 77.0752° E",28.4232,77.0752
+574,house,dlf city plots phase 2,sector 25,425.0,31481.0,1345.0,3,2,3,2.0,Old Property,0.0,0,1,0,0,0,0.0,"28.4844° N, 77.0860° E",28.4844,77.086
